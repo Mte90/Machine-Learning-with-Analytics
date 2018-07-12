@@ -35,7 +35,7 @@ del df['Tempo medio sulla pagina']
 del df['Frequenza di rimbalzo']
 del df['% uscita']
 df = df.groupby('Pagina', as_index=False).aggregate({'Visualizzazioni di pagina': 'sum', 'Accessi': 'sum'}).reindex(columns=df.columns)
-df = df.groupby('Pagina', as_index=False).agg(lambda x:x.value_counts().index[0])
+#df = df.groupby('Pagina', as_index=False).agg(lambda x:x.value_counts().index[0])
 df.to_csv('analytics_parsed.csv')
 print("CSV pulito")
 print(str(df.shape[0]) + " righe")
