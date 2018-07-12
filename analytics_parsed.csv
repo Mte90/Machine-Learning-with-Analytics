@@ -5,13 +5,13 @@
 3,adrotate extra settings wordpress,3,2
 4,after years switch main domain,16,11
 5,aggiornare firefox os alcatel one touch fire,167,140
-6,analisi sondaggio mozilla iot,29,22
-7,andmore it,2,0
-8,anno autore,2,1
-9,articoli,327,60
-10,articoli page,60,0
-11,austin mozilla all hands,23,17
-12,austin mozilla all hands io,8,5
+6,ama,22,14
+7,analisi sondaggio mozilla,29,22
+8,andmore it,2,0
+9,anno autore,2,1
+10,articoli,327,60
+11,articoli page,60,0
+12,austin mozilla all hands,31,22
 13,bash,1,0
 14,bash it,1,0
 15,bash shellshock quando bug compromette mondo,3,2
@@ -23,372 +23,359 @@
 21,clsxitaly roma,10,9
 22,coaching,2,2
 23,codecuriosity earn stickers doing open source github,23,21
-24,codemotion,6,4
-25,codemotion io,1,1
-26,codemotion roma io,40,35
-27,codemotion rome,20,15
-28,come convincere tuo amico passare gnulinux,2,2
-29,come provare firefox qt debian,12,11
-30,come traduttore progetti open source,116,107
-31,confsl,12,10
-32,cosa vi aspetta al codemotion roma,1,0
-33,cose nerd scriptone parte,11,9
-34,css lessscsshaml syntax kate,3,1
-35,custom post type secondo le categorie,1,1
-36,customize error log php wordpress debugging,75,63
-37,debian it,1,0
-38,debian ubuntu community conference,18,16
-39,debian ubuntu community conference milan,1,1
-40,devday benevento salerno,11,9
-41,devday benevento salerno io,8,2
-42,development,8,4
-43,differenze distro linux windowsosx,677,608
-44,div border triangle using only css,35,31
-45,doc recruit motivate volunteers,4,3
-46,dolphin daemoninhibited,2,2
-47,ebook,4,0
-48,ebook introduzione pyqt edizione,46,19
-49,ebook it,3,0
-50,edit debian packages depends easily,2,2
-51,electrolysis firefox multiprocess,3,3
-52,electrolysis ovvero firefox multi processo,16,15
-53,emoji firefox linux,14,13
-54,en,47,35
-55,en about,118,7
-56,en add ip address custom header ithemes security,9,6
-57,en add license open source software script,12,10
-58,en adrotate extra settings wordpress,1,1
-59,en articoli,18,0
-60,en butfox panda,23,20
-61,en clsxitaly roma,3,2
-62,en confsl,7,2
-63,en datask badgeos api rest,4,4
-64,en development,2,1
-65,en div border triangle using only css,20,16
-66,en doc recruit motivate volunteers,8,8
-67,en edit debian packages depends easily,6,4
-68,en electrolysis firefox multiprocess,5,5
-69,en emoji firefox linux,18,17
-70,en eng ita opensourcedevelopment weekly link report,2,0
-71,en extend wordpress rest api post type custom fields,22,19
-72,en extensions firefox thunderbird,53,45
-73,en facebook photo info see photo data,30,9
-74,en find crash facebook android app browser,10,8
-75,en firefox developer tool vs firebug,69,63
-76,en firefox drm eme complicated technical matter,3,2
-77,en firefox hackathon zurich mozillach,3,3
-78,en firefox kde time act,8,7
-79,en firefox os app days rome,1,1
-80,en firefox os milan,1,1
-81,en firefox os pordenone fair,6,6
-82,en firefox os workshop bologna,2,2
-83,en firefox osarduino workshop fabriano,4,4
-84,en flatz cms costruzione,1,0
-85,en force overwrite package apt,3,3
-86,en fosdem,27,23
-87,en get stats your browser extension,4,4
-88,en git clone auto download composer npm pip vagrant bower,11,6
-89,en github license,7,6
-90,en google groups rss feed,47,46
-91,en guest page,2,0
-92,en hacktoberfest join code contribution github,49,37
-93,en install logitechdebian sid,67,50
-94,en javascript,2,0
-95,en javascript gamepad api it exist,7,7
-96,en jquery click support mobile,1,1
-97,en kde scantoemail,1,0
-98,en linux day benevento,5,3
-99,en milanojs meetup april password opensource laquila,2,2
-100,en mobile embedded firenze,1,0
-101,en mozilla all hands hawaii,17,14
-102,en mozilla all hands london,18,16
-103,en mozilla developer day cagliari,11,4
-104,en mozilla festival,16,12
-105,en mozilla tech speaker meetup european gathering berlin,34,31
-106,en mozillian,65,11
-107,en new setup computer,3,3
-108,en new site source code,2,1
-109,en new website no big changes,20,14
-110,en ogv gif bash,5,5
-111,en optimize your image better web,5,5
-112,en oscal,6,6
-113,en participation,2,0
-114,en phpcompatinfo check minimum requirement your php code,22,18
-115,en phpdoc rules php codesnifferphp code beautifier fixer,65,57
-116,en plessc gui less compiler,3,2
-117,en pointerplus wordpress pointer simplified,3,3
-118,en postehack edition,15,5
-119,en promote mdn,3,2
-120,en qasana,3,2
-121,en qasana simple interface asana,7,7
-122,en recruit motivate new volunteers,50,40
-123,en remove facebook direct links browser extension,14,7
-124,en remove post fields options wordpress sql query,4,0
-125,en september mozilla marketplace contributor month daniele scasciafratte,1,0
-126,en sibbell githubs repo release notification easily,4,3
-127,en slack com konversation irc client,19,16
-128,en speaker,8,3
-129,en take back web benevento,2,2
-130,en take back web campaign italy week,10,6
-131,en the firefox osproblems,29,28
-132,en trip list,37,3
-133,en use specific ssh key domain,2,1
-134,en what open source software using mozilla,5,4
-135,en what want mozilla london all hands,3,3
-136,en why open,15,10
-137,en wikitolearn participation sprint,5,4
-138,en woothemes product vendor sucks,15,6
-139,en wordcamp milano linux day roma,5,3
-140,en wordpress mozilla days cosenza,12,6
-141,en wordpress nonce guest user,33,33
-142,en wordpress plugin boilerplate powered,194,153
-143,en wordpress plugin boilerplate powered yeoman generator,6,4
-144,end summer camp,7,7
-145,end summer camp io,2,2
-146,enextensions firefox thunderbird,25,20
-147,eng,790,589
-148,eng guest,4,4
-149,eng ita opensourcedevelopment weekly link report,3,2
-150,enpersonal command cheatsheet,20,7
-151,enworkflow as developer,9,4
-152,extend wordpress rest api post type custom fields,111,96
-153,extensions firefox thunderbird,366,310
-154,facebook photo info see photo data,47,28
-155,feed,4,1
-156,femministe informatiche veramente esagerate,35,29
-157,find crash facebook android app browser,171,158
-158,firefox dev tool vs firebug,30,26
-159,firefox developer tool vs firebug,55,52
-160,firefox drm eme complicated technical matter,2,2
-161,firefox drm eme questione tecnica complicata,41,39
-162,firefox gestione multiprofili,12,10
-163,firefox hackathon zurich mozillach,4,4
-164,firefox html quando browser core,5,4
-165,firefox kde agire,17,17
-166,firefox kde time act,15,14
-167,firefox os,3,1
-168,firefox os app days rome,3,2
-169,firefox os boomark wordpress site powered fox,2,1
-170,firefox os fiera pordenone,11,10
-171,firefox os pordenone fair,3,3
-172,firefox osarduino workshop fabriano,1,1
-173,firefox osarduino workshop fabriano io,1,1
-174,firefox oslaunch italy,7,4
-175,firefox webkit,33,28
-176,firefoxos utenti sviluppatori roma lug linuxday,5,4
-177,firefoxosappdays roma io,1,1
-178,fix your hab fixhabit,14,13
-179,flatz cms costruzione,1,0
-180,force overwrite package apt,6,6
-181,fosdem,18,14
-182,fosdem io,49,40
-183,free software open source activities april,9,7
-184,free software open source activities december,68,51
-185,free software open source activities february,19,16
-186,free software open source activities january,28,21
-187,free software open source activities june,21,16
-188,free software open source activities march,27,21
-189,free software open source activities may,6,0
-190,free software open source activities november,23,14
-191,free software open source activities october,29,26
-192,genera qr code connetterti alla rete wifi,17,12
-193,get stats your browser extension,9,6
-194,git clone auto download composer npm pip vagrant bower,2,2
-195,google groups rss feed,71,65
-196,guest,153,11
-197,guest changecopyright campagna mozilla riformare legge europea,2,1
-198,guest firefox os novita data uscita,3,1
-199,guest mp _scbsemplice convertitore bash tuoi mp,2,1
-200,guest page,8,0
-201,guest perche devi usare schools,2,2
-202,hacktoberfest join code contribution github,2,2
-203,hacktoberfest you want win shirt,28,27
-204,home,5,5
-205,how add gdpr support your custom woocommerce plugin,47,41
-206,how aggregate github gitlab bitbucket tickets,4,3
-207,how debug php open source project that you dont know,23,21
-208,how try firefox qt debian,20,18
-209,iisl,1,1
-210,iisl en,1,1
-211,il ama,22,14
-212,il destino flatz cms,11,10
-213,il virtuosismo delle segnalazioni nel mondo open source,10,9
-214,il workflow programmatore,74,62
-215,improve your debugging query monitor wordpress,58,50
-216,indice gulpease nel browser migliorare scrittura testo italiano,37,24
-217,industria italiana software libero nascita,17,16
-218,install logitechdebian sid,101,85
-219,interviste,2,1
-220,introduzione pyqt ed campagna proposte,4,1
-221,introduzione pyqt edizione,18,2
-222,io,7,5
-223,iofirefox os ed suo lancio italia,3,2
-224,ioit,4,3
-225,it,10,9
-226,ita,1329,675
-227,javascript gamepad api esiste,25,20
-228,javascript gamepad api it exist,2,2
-229,javascript it,6,1
-230,javascript principianti spiegato,203,169
-231,jquery click support mobile,4,3
-232,kde debian potenziamo kde repo,1,1
-233,kde plasma browser integration debian,66,53
-234,kde scantoemail,3,1
-235,le mie estensioni firefox thunderbird,954,736
-236,levoluzione scrivere,3,3
-237,libreoffice conference roma,38,31
-238,libreoffice conference rome,13,13
-239,libreoffice le stampanti debian,1,1
-240,linux,2,0
-241,linux day,1,1
-242,linux day benevento,1,1
-243,linux day benevento io,20,16
-244,linux day roma io,45,38
-245,linux day rome,3,2
-246,linux it,6,2
-247,linux videogiochi,5,5
-248,live coding patching wordpress minuti,66,54
-249,localepurge guadagniamo spazio nel sistema,1,1
-250,ma webmaster esistono ancora,21,20
-251,mancante,1790,1111
-252,matchstickdead what can we learn,2,2
-253,merge it,6,3
-254,merge it io,27,21
-255,mozilla,15,5
-256,mozilla all hands hawaii,11,7
-257,mozilla all hands hawaii io,8,7
-258,mozilla all hands london,7,6
-259,mozilla all hands san francisco,85,79
-260,mozilla developer day cagliari,9,6
-261,mozilla festival io,13,9
-262,mozilla firefox os rimini io,2,2
-263,mozilla it,6,2
-264,mozilla tech speaker meetup european gathering berlin,6,6
-265,mozilla tech speaker meetup european gathering berlino,8,5
-266,mozillian,151,8
-267,new setup computer,5,5
-268,new website no big changes,4,2
-269,news,1,1
-270,not_found,22,16
-271,ogv gif bash,10,9
-272,open edition,7,5
-273,open source,25,6
-274,open source day udine io,8,7
-275,open source it,11,3
-276,open source litalia,11,10
-277,optimize your image better web,7,7
-278,oscal,19,14
-279,parliamo firefox,1,1
-280,parliamo firefox android,2,1
-281,parliamo jquery vs javascript vanilla,42,37
-282,parliamo kde miglior de,3,2
-283,participation,8,5
-284,participation it,1,1
-285,patch debian package use locally,73,72
-286,patreon en,1,0
-287,perche conoscere piu linguaggi programmazione,5,4
-288,perche devi fare ticket segnalazione programmi open source,11,11
-289,perche lautomazione programmatore importante,8,8
-290,perche python mi piace ma continuo usarlo,204,190
-291,perche usare owncloud,51,32
-292,perche usare owncloud anni dopo,311,277
-293,perche usare owncloud anni dopo owncliud,1,1
-294,perche usare sassless,117,103
-295,perche vivo open source,57,31
-296,perche vivo open source edition,44,29
-297,perche woothemes product vendor fa schifo,39,23
-298,perugia comics vista uno zagoriano,10,10
-299,php it,1,1
-300,phpcompatinfo check minimum requirement your php code,20,17
-301,phpdoc rules php codesnifferphp code beautifier fixer,127,107
-302,plessc gui less compiler,1,1
-303,pointerplus wordpress pointer simplified,2,2
-304,postehack edition,8,5
-305,postehack edizione io,49,28
-306,posts,86,6
-307,posts page,13,0
-308,progetti accettati gsoc mozilla kde libreoffice,2,1
-309,programmazione,10,1
-310,proj management rc rc rcaltro,3,3
-311,pydal how remap your keyboard scripting linux easily,13,13
-312,pyqt,6,4
-313,pyqt it,2,0
-314,pystromo debian,1,1
-315,qasana simple interface asana,5,5
-316,quando testata web informatica passo tempi,35,29
-317,quando tp link soffre xss sito tuo powerline funziona,18,15
-318,quanto costa lopen source veramente gratuito,53,41
-319,recensione veloce hacker journal,54,43
-320,recruit motivate new volunteers,2,2
-321,recruit motivate volunteers italian way,20,11
-322,remove facebook direct links browser extension,123,97
-323,remove post fields options wordpress sql query,8,8
-324,resources,1,1
-325,retrogaming con nuova console raspberry pi,58,56
-326,rinominare gli mptramite id tag con eyed,6,6
-327,risorse,4,1
-328,risorse page,2,0
-329,san francisco all hands,12,8
-330,scaricare sito della rai dplay mediaset linux,415,346
-331,search pyqt,3,0
-332,send message slack bash,212,168
-333,servizi web privacy,2,0
-334,setup computer,2,2
-335,sha,102,88
-336,shaio,148,127
-337,sibbell githubs repo release notification easily,16,16
-338,simple boilerplate create map people list,54,48
-339,simple invoice manager tra noi,257,237
-340,siti italiani salvano le password inviano chiaro,203,147
-341,sito codice,19,13
-342,slack com konversation irc client,28,22
-343,smetto bloggerscontest,1,1
-344,speaker,99,10
-345,spiegare gnulinux tua nonna,44,39
-346,starkers tema basilare wordpress,2,2
-347,take back web benevento,9,6
-348,take back web campaign italia settimana,6,2
-349,telegram cambiato mia vita,331,297
-350,telegram cambiato mia vita embed,2,2
-351,teniamo aggiornato gmic trucchi,18,13
-352,the firefox osproblems,1,1
-353,the virtuosity reporting open source world,4,3
-354,ubuntu gnulinux che bel rapporto,1,1
-355,upload stuff push when branchmaster,5,3
-356,use specific ssh key domain,11,9
-357,use udoodocker,34,33
-358,useful composer plugins your workflow,694,635
-359,volpe panda,142,136
-360,webinar gratuito firefox developer tool,1,1
-361,websummit lisbona,6,6
-362,websummit lisbona io,4,3
-363,what open source software using mozilla,1,1
-364,what want mozilla london all hands,4,4
-365,when tp link suffers from xss site your powerline work,1,1
-366,who follow patreon about open source,9,9
-367,why developing browser extensions,39,32
-368,why open,16,5
-369,woothemes product vendor sucks,11,11
-370,wordcamp bologna wp terni wp roma meetup,4,2
-371,wordcamp europe,20,15
-372,wordcamp milano linux day roma,13,8
-373,wordcamp torino,23,18
-374,wordcamp torino free software activity day,5,3
-375,wordcamp torino free software activity day io,8,6
-376,wordcamp torino io,13,7
-377,wordpress,15,7
-378,wordpress boilerplate plugin,1,1
-379,wordpress filtro post ajax categorie checkbox,286,262
-380,wordpress installer scriptino che semplifica vita,6,6
-381,wordpress it,6,3
-382,wordpress mozilla days cosenza,15,6
-383,wordpress nonce guest user,120,109
-384,wordpress plugin boilerplate powered,228,185
-385,wordpress plugin boilerplate powered yeoman generator,13,11
-386,wordpress richiesta dati ftp localhost,38,33
-387,wordpress solo blog,12,10
-388,wordpress ui sperimentale gestione widgets,10,3
-389,workflow as developer,2,1
-390,wpbp,153,123
-391,xdotoolchange focus active window dual monitor,15,14
-392,years glotdict,36,28
+24,codemotion,7,5
+25,codemotion roma,40,35
+26,codemotion rome,20,15
+27,come convinceretuo amico passare gnulinux,2,2
+28,come provare firefox qt debian,12,11
+29,come traduttore progetti open source,116,107
+30,confsl,12,10
+31,cosa vi aspetta al codemotion roma,1,0
+32,cose nerd scriptone parte,11,9
+33,css lessscsshaml syntax kate,3,1
+34,custom post type secondo le categorie,1,1
+35,customize error log php wordpress debugging,75,63
+36,debian it,1,0
+37,debian ubuntu community conference,18,16
+38,debian ubuntu community conference milan,1,1
+39,destino flatz cms,11,10
+40,devday benevento salerno,19,11
+41,development,8,4
+42,differenze distro linux windowsosx,677,608
+43,div border triangle using only css,35,31
+44,doc recruit motivate volunteers,4,3
+45,dolphin daemoninhibited,2,2
+46,ebook,4,0
+47,ebook introduzione pyqt edizione,46,19
+48,ebook it,3,0
+49,edit debian packages depends easily,2,2
+50,electrolysis firefox multiprocess,3,3
+51,electrolysis ovvero firefox multi processo,16,15
+52,emoji firefox linux,14,13
+53,en,47,35
+54,en about,118,7
+55,en add ip address custom header ithemes security,9,6
+56,en add license open source software script,12,10
+57,en adrotate extra settings wordpress,1,1
+58,en articoli,18,0
+59,en butfox panda,23,20
+60,en clsxitaly roma,3,2
+61,en confsl,7,2
+62,en datask badgeos api rest,4,4
+63,en development,2,1
+64,en div border triangle using only css,20,16
+65,en doc recruit motivate volunteers,8,8
+66,en edit debian packages depends easily,6,4
+67,en electrolysis firefox multiprocess,5,5
+68,en emoji firefox linux,18,17
+69,en eng ita opensourcedevelopment weekly link report,2,0
+70,en extend wordpress rest api post type custom fields,22,19
+71,en extensions firefox thunderbird,53,45
+72,en facebook photo info see photo data,30,9
+73,en find crash facebook android app browser,10,8
+74,en firefox developer tool vs firebug,69,63
+75,en firefox drm eme complicated technical matter,3,2
+76,en firefox hackathon zurich mozillach,3,3
+77,en firefox kde time act,8,7
+78,en firefox os app days rome,1,1
+79,en firefox os milan,1,1
+80,en firefox os pordenone fair,6,6
+81,en firefox os workshop bologna,2,2
+82,en firefox osarduino workshop fabriano,4,4
+83,en flatz cms costruzione,1,0
+84,en force overwrite package apt,3,3
+85,en fosdem,27,23
+86,en get stats your browser extension,4,4
+87,en git clone auto download composer npm pip vagrant bower,11,6
+88,en github license,7,6
+89,en google groups rss feed,47,46
+90,en guest page,2,0
+91,en hacktoberfest join code contribution github,49,37
+92,en install logitechdebian sid,67,50
+93,en javascript,2,0
+94,en javascript gamepad api it exist,7,7
+95,en jquery click support mobile,1,1
+96,en kde scantoemail,1,0
+97,en linux day benevento,5,3
+98,en milanojs meetup apr password opensource laquila,2,2
+99,en mobile embedded firenze,1,0
+100,en mozilla all hands hawaii,17,14
+101,en mozilla all hands london,18,16
+102,en mozilla developer day cagliari,11,4
+103,en mozilla festival,16,12
+104,en mozilla tech speaker meetup european gathering berlin,34,31
+105,en mozillian,65,11
+106,en new setup computer,3,3
+107,en new site source code,2,1
+108,en new website no big changes,20,14
+109,en ogv gif bash,5,5
+110,en optimize your image better web,5,5
+111,en oscal,6,6
+112,en participation,2,0
+113,en phpcompatinfo check minimum requirement your php code,22,18
+114,en phpdoc rules php codesnifferphp code beautifier fixer,65,57
+115,en plessc gui less compiler,3,2
+116,en pointerplus wordpress pointer simplified,3,3
+117,en postehack edition,15,5
+118,en promote mdn,3,2
+119,en qasana,3,2
+120,en qasana simple interface asana,7,7
+121,en recruit motivate new volunteers,50,40
+122,en remove facebook direct links browser extension,14,7
+123,en remove post fields options wordpress sql query,4,0
+124,en september mozilla marketplace contributor month daniele scasciafratte,1,0
+125,en sibbell githubs repo release notification easily,4,3
+126,en slack com konversation irc client,19,16
+127,en speaker,8,3
+128,en take back web benevento,2,2
+129,en take back web campaign italy week,10,6
+130,en the firefox osproblems,29,28
+131,en trip list,37,3
+132,en use specific ssh key domain,2,1
+133,en what open source software using mozilla,5,4
+134,en what want mozilla london all hands,3,3
+135,en why open,15,10
+136,en wikitolearn participation sprint,5,4
+137,en woothemes product vendor sucks,15,6
+138,en wordcamp milano linux day roma,5,3
+139,en wordpress mozilla days cosenza,12,6
+140,en wordpress nonce guest user,33,33
+141,en wordpress plugin boilerplate powered,194,153
+142,en wordpress plugin boilerplate powered yeoman generator,6,4
+143,end summer camp,9,9
+144,enextensions firefox thunderbird,25,20
+145,eng,790,589
+146,eng guest,4,4
+147,eng ita opensourcedevelopment weekly link report,3,2
+148,enpersonal command cheatsheet,20,7
+149,enworkflow as developer,9,4
+150,extend wordpress rest api post type custom fields,111,96
+151,extensions firefox thunderbird,366,310
+152,facebook photo info see photo data,47,28
+153,feed,4,1
+154,femministe informatiche veramente esagerate,35,29
+155,find crash facebook android app browser,171,158
+156,firefox dev tool vs firebug,30,26
+157,firefox developer tool vs firebug,55,52
+158,firefox drm eme complicated technical matter,2,2
+159,firefox drm eme questione tecnica complicata,41,39
+160,firefox gestione multiprofili,12,10
+161,firefox hackathon zurich mozillach,4,4
+162,firefox html quandobrowsercore,5,4
+163,firefox kde agire,17,17
+164,firefox kde time act,15,14
+165,firefox os,3,1
+166,firefox os app days rome,3,2
+167,firefox os boomark wordpress site powered fox,2,1
+168,firefox os fiera pordenone,11,10
+169,firefox os pordenone fair,3,3
+170,firefox osarduino workshop fabriano,2,2
+171,firefox oslaunch italy,7,4
+172,firefox webkit,33,28
+173,firefoxos utenti sviluppatori roma lug linuxday,5,4
+174,firefoxosappdays roma,1,1
+175,fix your hab fixhabit,14,13
+176,flatz cms costruzione,1,0
+177,force overwrite package apt,6,6
+178,fosdem,67,54
+179,free software open source activities apr,9,7
+180,free software open source activities december,68,51
+181,free software open source activities february,19,16
+182,free software open source activities january,28,21
+183,free software open source activities june,21,16
+184,free software open source activities march,27,21
+185,free software open source activities may,6,0
+186,free software open source activities november,23,14
+187,free software open source activities october,29,26
+188,genera qr code connetterti alla rete wifi,17,12
+189,get stats your browser extension,9,6
+190,git clone auto download composer npm pip vagrant bower,2,2
+191,google groups rss feed,71,65
+192,guest,153,11
+193,guest changecopyright campagna mozilla riformare legge europea,2,1
+194,guest firefox os novita data uscita,3,1
+195,guest mp _scbsemplice convertitore bash tuoi mp,2,1
+196,guest page,8,0
+197,guest perche devi usare schools,2,2
+198,hacktoberfest join code contribution github,2,2
+199,hacktoberfest you want win shirt,28,27
+200,home,5,5
+201,how add gdpr support your custom woocommerce plugin,47,41
+202,how aggregate github gitlab bitbucket tickets,4,3
+203,how debug php open source project that you dont know,23,21
+204,how try firefox qt debian,20,18
+205,iisl,1,1
+206,iisl en,1,1
+207,improve your debugging query monitor wordpress,58,50
+208,indice gulpease nel browser migliorare scrittura testo italiano,37,24
+209,industria italiana software libero nascita,17,16
+210,install logitechdebian sid,101,85
+211,interviste,2,1
+212,introduzione pyqt ed campagna proposte,4,1
+213,introduzione pyqt edizione,18,2
+214,io,7,5
+215,iofirefox os edsuo lancio italia,3,2
+216,ioit,4,3
+217,it,10,9
+218,ita,1329,675
+219,javascript gamepad api esiste,25,20
+220,javascript gamepad api it exist,2,2
+221,javascript it,6,1
+222,javascript principianti spiegato,203,169
+223,jquery click support mobile,4,3
+224,kde debian potenziamo kde repo,1,1
+225,kde plasma browser integration debian,66,53
+226,kde scantoemail,3,1
+227,le mie estensioni firefox thunderbird,954,736
+228,levoluzione scrivere,3,3
+229,libreoffice conference roma,38,31
+230,libreoffice conference rome,13,13
+231,libreoffice le stampanti debian,1,1
+232,linux,2,0
+233,linux day,1,1
+234,linux day benevento,21,17
+235,linux day roma,45,38
+236,linux day rome,3,2
+237,linux it,6,2
+238,linux videogiochi,5,5
+239,live coding patching wordpress minuti,66,54
+240,localepurge guadagniamo spazio nel sistema,1,1
+241,ma webmaster esistono ancora,21,20
+242,mancante,1790,1111
+243,matchstickdead what can we learn,2,2
+244,merge it,33,24
+245,mozilla,15,5
+246,mozilla all hands hawaii,19,14
+247,mozilla all hands london,7,6
+248,mozilla all hands san francisco,85,79
+249,mozilla developer day cagliari,9,6
+250,mozilla festival,13,9
+251,mozilla firefox os rimini,2,2
+252,mozilla it,6,2
+253,mozilla tech speaker meetup european gathering berlin,6,6
+254,mozilla tech speaker meetup european gathering berlino,8,5
+255,mozillian,151,8
+256,new setup computer,5,5
+257,new website no big changes,4,2
+258,news,1,1
+259,not_found,22,16
+260,ogv gif bash,10,9
+261,open edition,7,5
+262,open source,25,6
+263,open source day udine,8,7
+264,open source it,11,3
+265,open source italia,11,10
+266,optimize your image better web,7,7
+267,oscal,19,14
+268,parliamo firefox,1,1
+269,parliamo firefox android,2,1
+270,parliamo jquery vs javascript vanilla,42,37
+271,parliamo kde miglior de,3,2
+272,participation,8,5
+273,participation it,1,1
+274,patch debian package use locally,73,72
+275,patreon en,1,0
+276,perche conoscere piu linguaggi programmazione,5,4
+277,perche devi fare ticket segnalazione programmi open source,11,11
+278,perche lautomazione programmatore importante,8,8
+279,perche python mi piace ma continuo usarlo,204,190
+280,perche usare owncloud,51,32
+281,perche usare owncloud anni dopo,311,277
+282,perche usare owncloud anni dopo owncliud,1,1
+283,perche usare sassless,117,103
+284,perche vivo open source,57,31
+285,perche vivo open source edition,44,29
+286,perche woothemes product vendor fa schifo,39,23
+287,perugia comics vista uno zagoriano,10,10
+288,php it,1,1
+289,phpcompatinfo check minimum requirement your php code,20,17
+290,phpdoc rules php codesnifferphp code beautifier fixer,127,107
+291,plessc gui less compiler,1,1
+292,pointerplus wordpress pointer simplified,2,2
+293,postehack edition,8,5
+294,postehack edizione,49,28
+295,posts,86,6
+296,posts page,13,0
+297,progetti accettati gsoc mozilla kde libreoffice,2,1
+298,programmazione,10,1
+299,proj management rc rc rcaltro,3,3
+300,pydal how remap your keyboard scripting linux easily,13,13
+301,pyqt,6,4
+302,pyqt it,2,0
+303,pystromo debian,1,1
+304,qasana simple interface asana,5,5
+305,quando testata web informatica passo tempi,35,29
+306,quando tp link soffre xss sito tuo powerline funziona,18,15
+307,quanto costa lopen source veramente gratuito,53,41
+308,recensione veloce hacker journal,54,43
+309,recruit motivate new volunteers,2,2
+310,recruit motivate volunteers italian way,20,11
+311,remove facebook direct links browser extension,123,97
+312,remove post fields options wordpress sql query,8,8
+313,resources,1,1
+314,retrogaming con nuova console raspberry pi,58,56
+315,rinominare gli mptramite id tag con eyed,6,6
+316,risorse,4,1
+317,risorse page,2,0
+318,san francisco all hands,12,8
+319,scaricare sito della rai dplay mediaset linux,415,346
+320,search pyqt,3,0
+321,send message slack bash,212,168
+322,servizi web privacy,2,0
+323,setup computer,2,2
+324,sha,250,215
+325,sibbell githubs repo release notification easily,16,16
+326,simple boilerplate create map people list,54,48
+327,simple invoice manager tra noi,257,237
+328,siti italiani salvano le password inviano chiaro,203,147
+329,sito codice,19,13
+330,slack com konversation irc client,28,22
+331,smetto bloggerscontest,1,1
+332,speaker,99,10
+333,spiegare gnulinux tua nonna,44,39
+334,starkers tema basilare wordpress,2,2
+335,take back web benevento,9,6
+336,take back web campaign italia settimana,6,2
+337,telegram cambiato mia vita,331,297
+338,telegram cambiato mia vita embed,2,2
+339,teniamo aggiornato gmic trucchi,18,13
+340,the firefox osproblems,1,1
+341,the virtuosity reporting open source world,4,3
+342,ubuntu gnulinux che bel rapporto,1,1
+343,upload stuff push when branchmaster,5,3
+344,use specific ssh key domain,11,9
+345,use udoodocker,34,33
+346,useful composer plugins your workflow,694,635
+347,virtuosismo delle segnalazioni nel mondo open source,10,9
+348,volpe panda,142,136
+349,webinar gratuito firefox developer tool,1,1
+350,websummit lisbona,10,9
+351,what open source software using mozilla,1,1
+352,what want mozilla london all hands,4,4
+353,when tp link suffers from xss site your powerline work,1,1
+354,who follow patreon about open source,9,9
+355,why developing browser extensions,39,32
+356,why open,16,5
+357,woothemes product vendor sucks,11,11
+358,wordcamp bologna wp terni wp roma meetup,4,2
+359,wordcamp europe,20,15
+360,wordcamp milano linux day roma,13,8
+361,wordcamp torino,36,25
+362,wordcamp torino free software activity day,13,9
+363,wordpress,15,7
+364,wordpress boilerplate plugin,1,1
+365,wordpress filtro post ajax categorie checkbox,286,262
+366,wordpress installer scriptino che semplifica vita,6,6
+367,wordpress it,6,3
+368,wordpress mozilla days cosenza,15,6
+369,wordpress nonce guest user,120,109
+370,wordpress plugin boilerplate powered,228,185
+371,wordpress plugin boilerplate powered yeoman generator,13,11
+372,wordpress richiesta dati ftp localhost,38,33
+373,wordpress solo blog,12,10
+374,wordpress ui sperimentale gestione widgets,10,3
+375,workflow as developer,2,1
+376,workflow programmatore,74,62
+377,wpbp,153,123
+378,xdotoolchange focus active window dual monitor,15,14
+379,years glotdict,36,28
