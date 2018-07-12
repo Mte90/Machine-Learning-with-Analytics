@@ -25,3 +25,7 @@ L'idea è di estrapolare il contenuto di tutti questi articoli e fornirgli quell
 Quindi con uno scraper che utilizza le WP Rest API si scaricherà tutto il testo che verrà poi pulito per togliere tutte le parole non necessarie come congiunzioni o articoli. 
 
 Dopodiche si sostituirà nel CSV il contenuto pulito invece di degli slug facendo fare delle comparazioni sempre con le visite e gli accessi.
+
+# Scopo
+
+Riuscire a creare un modello che dato un termine riesca a fornire quanto successo in termini di visite e accessi può portare al sito.
