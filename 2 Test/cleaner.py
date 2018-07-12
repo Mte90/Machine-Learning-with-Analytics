@@ -5,7 +5,6 @@ import re, os
 def sanitize_slug(slug):
     slug = re.sub(r'\?author=.*', '', slug)
     slug = re.sub(r'\?lang=.*', '', slug)
-    slug = re.sub(r'\?author=.*', '', slug)
     slug = slug.replace('  ', '').replace('guest_post', 'guest-post').strip()
     slug = os.path.basename(os.path.normpath(slug))
     if slug is '' or len(slug) < 3:
