@@ -4,7 +4,11 @@ import re
 
 def sanitize_slug(slug):
     #.replace('/en/','').replace('/it/','')
-    slug = slug.replace('-',' ').replace('  ',' ').replace('category','').replace('cero','').replace('there','').replace(' rc ',' ').replace(' with ','')
+    slug = slug.replace('-',' ').replace('  ',' ').replace('category','').replace('cero','').replace('there','')
+    slug = slug.replace(' rc ',' ').replace(' il ',' ').replace(' with ',' ').replace(' of ',' ').replace(' my ',' ').replace('my ',' ').replace(' la ',' ')
+    slug = slug.replace(' per ',' ').replace(' di ',' ').replace(' mio ',' ').replace(' does ',' ').replace(' not ',' ').replace(' in ',' ').replace(' the ',' ')
+    slug = slug.replace(' da ',' ').replace(' on ',' ').replace(' do ',' ').replace(' non ',' ').replace(' ti ',' ').replace(' dal ',' ').replace(' dei ',' ')
+    slug = slug.replace(' un ',' ').replace(' si ',' ').replace(' ad ',' ').replace(' del ',' ').replace(' at ',' ').replace(' is',' ').replace(' for ',' ')
     slug = slug.replace('e/o',' ').replace('/',' ').replace('guest post','guest').replace('guest_post','guest').replace(' or','')
     slug = slug.replace(' to ',' ').replace(' and ',' ').replace(' an ',' ').replace(' by','').replace('was','').replace('its','').replace(' su ','')
     slug = re.sub('[0-9]+', ' ', slug)
