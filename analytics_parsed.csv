@@ -332,64 +332,63 @@
 330,scaricare sito della rai dplay mediaset linux,415,346
 331,search pyqt,3,0
 332,send message slack bash,212,168
-333,servizi web privacy,1,0
-334,servizi web privacy ?replytocom=,1,0
-335,setup computer,2,2
-336,sha,102,88
-337,shaio,148,127
-338,sibbell githubs repo release notification easily,16,16
-339,simple boilerplate create map people list,54,48
-340,simple invoice manager tra noi,257,237
-341,siti italiani salvano le password inviano chiaro,203,147
-342,sito codice,19,13
-343,slack com konversation irc client,28,22
-344,smetto bloggerscontest,1,1
-345,speaker,99,10
-346,spiegare gnulinux tua nonna,44,39
-347,starkers tema basilare wordpress,2,2
-348,take back web benevento,9,6
-349,take back web campaign italia settimana,6,2
-350,telegram cambiato mia vita,331,297
-351,telegram cambiato mia vita embed,2,2
-352,teniamo aggiornato gmic trucchi,18,13
-353,the firefox osproblems,1,1
-354,the virtuosity reporting open source world,4,3
-355,ubuntu gnulinux che bel rapporto,1,1
-356,upload stuff push when branchmaster,5,3
-357,use specific ssh key domain,11,9
-358,use udoodocker,34,33
-359,useful composer plugins your workflow,694,635
-360,volpe panda,142,136
-361,webinar gratuito firefox developer tool,1,1
-362,websummit lisbona,6,6
-363,websummit lisbona io,4,3
-364,what open source software using mozilla,1,1
-365,what want mozilla london all hands,4,4
-366,when tp link suffers from xss site your powerline work,1,1
-367,who follow patreon about open source,9,9
-368,why developing browser extensions,39,32
-369,why open,16,5
-370,woothemes product vendor sucks,11,11
-371,wordcamp bologna wp terni wp roma meetup,4,2
-372,wordcamp europe,20,15
-373,wordcamp milano linux day roma,13,8
-374,wordcamp torino,23,18
-375,wordcamp torino free software activity day,5,3
-376,wordcamp torino free software activity day io,8,6
-377,wordcamp torino io,13,7
-378,wordpress,15,7
-379,wordpress boilerplate plugin,1,1
-380,wordpress filtro post ajax categorie checkbox,286,262
-381,wordpress installer scriptino che semplifica vita,6,6
-382,wordpress it,6,3
-383,wordpress mozilla days cosenza,15,6
-384,wordpress nonce guest user,120,109
-385,wordpress plugin boilerplate powered,228,185
-386,wordpress plugin boilerplate powered yeoman generator,13,11
-387,wordpress richiesta dati ftp localhost,38,33
-388,wordpress solo blog,12,10
-389,wordpress ui sperimentale gestione widgets,10,3
-390,workflow as developer,2,1
-391,wpbp,153,123
-392,xdotoolchange focus active window dual monitor,15,14
-393,years glotdict,36,28
+333,servizi web privacy,2,0
+334,setup computer,2,2
+335,sha,102,88
+336,shaio,148,127
+337,sibbell githubs repo release notification easily,16,16
+338,simple boilerplate create map people list,54,48
+339,simple invoice manager tra noi,257,237
+340,siti italiani salvano le password inviano chiaro,203,147
+341,sito codice,19,13
+342,slack com konversation irc client,28,22
+343,smetto bloggerscontest,1,1
+344,speaker,99,10
+345,spiegare gnulinux tua nonna,44,39
+346,starkers tema basilare wordpress,2,2
+347,take back web benevento,9,6
+348,take back web campaign italia settimana,6,2
+349,telegram cambiato mia vita,331,297
+350,telegram cambiato mia vita embed,2,2
+351,teniamo aggiornato gmic trucchi,18,13
+352,the firefox osproblems,1,1
+353,the virtuosity reporting open source world,4,3
+354,ubuntu gnulinux che bel rapporto,1,1
+355,upload stuff push when branchmaster,5,3
+356,use specific ssh key domain,11,9
+357,use udoodocker,34,33
+358,useful composer plugins your workflow,694,635
+359,volpe panda,142,136
+360,webinar gratuito firefox developer tool,1,1
+361,websummit lisbona,6,6
+362,websummit lisbona io,4,3
+363,what open source software using mozilla,1,1
+364,what want mozilla london all hands,4,4
+365,when tp link suffers from xss site your powerline work,1,1
+366,who follow patreon about open source,9,9
+367,why developing browser extensions,39,32
+368,why open,16,5
+369,woothemes product vendor sucks,11,11
+370,wordcamp bologna wp terni wp roma meetup,4,2
+371,wordcamp europe,20,15
+372,wordcamp milano linux day roma,13,8
+373,wordcamp torino,23,18
+374,wordcamp torino free software activity day,5,3
+375,wordcamp torino free software activity day io,8,6
+376,wordcamp torino io,13,7
+377,wordpress,15,7
+378,wordpress boilerplate plugin,1,1
+379,wordpress filtro post ajax categorie checkbox,286,262
+380,wordpress installer scriptino che semplifica vita,6,6
+381,wordpress it,6,3
+382,wordpress mozilla days cosenza,15,6
+383,wordpress nonce guest user,120,109
+384,wordpress plugin boilerplate powered,228,185
+385,wordpress plugin boilerplate powered yeoman generator,13,11
+386,wordpress richiesta dati ftp localhost,38,33
+387,wordpress solo blog,12,10
+388,wordpress ui sperimentale gestione widgets,10,3
+389,workflow as developer,2,1
+390,wpbp,153,123
+391,xdotoolchange focus active window dual monitor,15,14
+392,years glotdict,36,28
