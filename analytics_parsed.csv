@@ -4,8 +4,8 @@
 2,add license open source software script,4,3
 3,adrotate extra settings wordpress,3,2
 4,after years switch main domain,16,11
-5,aggiornare firefox osalcatel one touch fire,167,140
-6,analisi sondaggio mozillaiot,29,22
+5,aggiornare firefox os alcatel one touch fire,167,140
+6,analisi sondaggio mozilla iot,29,22
 7,andmore it,2,0
 8,anno autore,2,1
 9,articoli,327,60
@@ -28,7 +28,7 @@
 26,codemotion roma io,40,35
 27,codemotion rome,20,15
 28,come convincere tuo amico passare gnulinux,2,2
-29,come provare firefox qtdebian,12,11
+29,come provare firefox qt debian,12,11
 30,come traduttore progetti open source,116,107
 31,confsl,12,10
 32,cosa vi aspetta al codemotion roma,1,0
@@ -234,164 +234,162 @@
 232,kde debian potenziamo kde repo,1,1
 233,kde plasma browser integration debian,66,53
 234,kde scantoemail,3,1
-235,le mie estensioni firefox thunderbird,127,97
-236,le mie estensionifirefox thunderbird,826,639
-237,le mie estensionifirefox thunderbird null,1,0
-238,levoluzione scrivere,3,3
-239,libreoffice conference roma,38,31
-240,libreoffice conference rome,13,13
-241,libreoffice le stampantidebian,1,1
-242,linux,2,0
-243,linux day,1,1
-244,linux day benevento,1,1
-245,linux day benevento io,20,16
-246,linux day roma io,45,38
-247,linux day rome,3,2
-248,linux it,6,2
-249,linux videogiochi,5,5
-250,live coding patching wordpress minuti,66,54
-251,localepurge guadagniamo spazio nel sistema,1,1
-252,ma webmaster esistono ancora,21,20
-253,mancante,1790,1111
-254,matchstickdead what can we learn,2,2
-255,merge it,6,3
-256,merge it io,27,21
-257,mozilla,15,5
-258,mozilla all hands hawaii,11,7
-259,mozilla all hands hawaii io,8,7
-260,mozilla all hands london,7,6
-261,mozilla all hands san francisco,85,79
-262,mozilla developer day cagliari,9,6
-263,mozilla festival io,13,9
-264,mozilla firefox os rimini io,2,2
-265,mozilla it,6,2
-266,mozilla tech speaker meetup european gathering berlin,6,6
-267,mozilla tech speaker meetup european gathering berlino,8,5
-268,mozillian,151,8
-269,new setup computer,5,5
-270,new website no big changes,4,2
-271,news,1,1
-272,not_found,22,16
-273,ogv gif bash,10,9
-274,open edition,7,5
-275,open source,25,6
-276,open source day udine io,8,7
-277,open source it,11,3
-278,open source litalia,11,10
-279,optimize your image better web,7,7
-280,oscal,19,14
-281,parliamo firefox,1,1
-282,parliamo firefox android,2,1
-283,parliamo jquery vs javascript vanilla,42,37
-284,parliamo kde miglior de,3,2
-285,participation,8,5
-286,participation it,1,1
-287,patch debian package use locally,73,72
-288,patreon en,1,0
-289,perche conoscere piu linguaggi programmazione,5,4
-290,perche devi fare ticket segnalazione programmi open source,11,11
-291,perche lautomazione programmatore importante,8,8
-292,perche python mi piace ma continuo usarlo,204,190
-293,perche usare owncloud,51,32
-294,perche usare owncloud anni dopo,311,277
-295,perche usare owncloud anni dopo owncliud,1,1
-296,perche usare sassless,117,103
-297,perche vivo open source,57,31
-298,perche vivo open source edition,44,29
-299,perche woothemes product vendor fa schifo,39,23
-300,perugia comics vista uno zagoriano,10,10
-301,php it,1,1
-302,phpcompatinfo check minimum requirement your php code,20,17
-303,phpdoc rules php codesnifferphp code beautifier fixer,127,107
-304,plessc gui less compiler,1,1
-305,pointerplus wordpress pointer simplified,2,2
-306,postehack edition,8,5
-307,postehack edizione io,49,28
-308,posts,86,6
-309,posts page,13,0
-310,progetti accettati gsoc mozilla kde libreoffice,2,1
-311,programmazione,10,1
-312,proj management rc rc rcaltro,3,3
-313,pydal how remap your keyboard scripting linux easily,13,13
-314,pyqt,6,4
-315,pyqt it,2,0
-316,pystromo debian,1,1
-317,qasana simple interface asana,5,5
-318,quando testata web informatica passo tempi,35,29
-319,quando tp link soffre xss sito tuo powerline funziona,18,15
-320,quanto costa lopen source veramente gratuito,53,41
-321,recensione veloce hacker journal,54,43
-322,recruit motivate new volunteers,2,2
-323,recruit motivate volunteers italian way,20,11
-324,remove facebook direct links browser extension,123,97
-325,remove post fields options wordpress sql query,8,8
-326,resources,1,1
-327,retrogaming con nuova console raspberry pi,58,56
-328,rinominare gli mptramite id tag con eyed,6,6
-329,risorse,4,1
-330,risorse page,2,0
-331,san francisco all hands,12,8
-332,scaricare sito della rai dplay mediaset linux,415,346
-333,search pyqt,3,0
-334,send message slack bash,212,168
-335,servizi web privacy,1,0
-336,servizi web privacy ?replytocom=,1,0
-337,setup computer,2,2
-338,sha,102,88
-339,shaio,148,127
-340,sibbell githubs repo release notification easily,16,16
-341,simple boilerplate create map people list,54,48
-342,simple invoice manager tra noi,257,237
-343,siti italiani salvano le password inviano chiaro,203,147
-344,sito codice,19,13
-345,slack com konversation irc client,28,22
-346,smetto bloggerscontest,1,1
-347,speaker,99,10
-348,spiegare gnulinux tua nonna,44,39
-349,starkers tema basilare wordpress,2,2
-350,take back web benevento,9,6
-351,take back web campaign italia settimana,6,2
-352,telegram cambiato mia vita,331,297
-353,telegram cambiato mia vita embed,2,2
-354,teniamo aggiornato gmic trucchi,18,13
-355,the firefox osproblems,1,1
-356,the virtuosity reporting open source world,4,3
-357,ubuntu gnulinux che bel rapporto,1,1
-358,upload stuff push when branchmaster,5,3
-359,use specific ssh key domain,11,9
-360,use udoodocker,34,33
-361,useful composer plugins your workflow,694,635
-362,volpe panda,142,136
-363,webinar gratuito firefox developer tool,1,1
-364,websummit lisbona,6,6
-365,websummit lisbona io,4,3
-366,what open source software using mozilla,1,1
-367,what want mozilla london all hands,4,4
-368,when tp link suffers from xss site your powerline work,1,1
-369,who follow patreon about open source,9,9
-370,why developing browser extensions,39,32
-371,why open,16,5
-372,woothemes product vendor sucks,11,11
-373,wordcamp bologna wp terni wp roma meetup,4,2
-374,wordcamp europe,20,15
-375,wordcamp milano linux day roma,13,8
-376,wordcamp torino,23,18
-377,wordcamp torino free software activity day,5,3
-378,wordcamp torino free software activity day io,8,6
-379,wordcamp torino io,13,7
-380,wordpress,15,7
-381,wordpress boilerplate plugin,1,1
-382,wordpress filtro post ajax categorie checkbox,286,262
-383,wordpress installer scriptino che semplifica vita,6,6
-384,wordpress it,6,3
-385,wordpress mozilla days cosenza,15,6
-386,wordpress nonce guest user,120,109
-387,wordpress plugin boilerplate powered,228,185
-388,wordpress plugin boilerplate powered yeoman generator,13,11
-389,wordpress richiesta dati ftp localhost,38,33
-390,wordpress solo blog,12,10
-391,wordpress ui sperimentale gestione widgets,10,3
-392,workflow as developer,2,1
-393,wpbp,153,123
-394,xdotoolchange focus active window dual monitor,15,14
-395,years glotdict,36,28
+235,le mie estensioni firefox thunderbird,954,736
+236,levoluzione scrivere,3,3
+237,libreoffice conference roma,38,31
+238,libreoffice conference rome,13,13
+239,libreoffice le stampanti debian,1,1
+240,linux,2,0
+241,linux day,1,1
+242,linux day benevento,1,1
+243,linux day benevento io,20,16
+244,linux day roma io,45,38
+245,linux day rome,3,2
+246,linux it,6,2
+247,linux videogiochi,5,5
+248,live coding patching wordpress minuti,66,54
+249,localepurge guadagniamo spazio nel sistema,1,1
+250,ma webmaster esistono ancora,21,20
+251,mancante,1790,1111
+252,matchstickdead what can we learn,2,2
+253,merge it,6,3
+254,merge it io,27,21
+255,mozilla,15,5
+256,mozilla all hands hawaii,11,7
+257,mozilla all hands hawaii io,8,7
+258,mozilla all hands london,7,6
+259,mozilla all hands san francisco,85,79
+260,mozilla developer day cagliari,9,6
+261,mozilla festival io,13,9
+262,mozilla firefox os rimini io,2,2
+263,mozilla it,6,2
+264,mozilla tech speaker meetup european gathering berlin,6,6
+265,mozilla tech speaker meetup european gathering berlino,8,5
+266,mozillian,151,8
+267,new setup computer,5,5
+268,new website no big changes,4,2
+269,news,1,1
+270,not_found,22,16
+271,ogv gif bash,10,9
+272,open edition,7,5
+273,open source,25,6
+274,open source day udine io,8,7
+275,open source it,11,3
+276,open source litalia,11,10
+277,optimize your image better web,7,7
+278,oscal,19,14
+279,parliamo firefox,1,1
+280,parliamo firefox android,2,1
+281,parliamo jquery vs javascript vanilla,42,37
+282,parliamo kde miglior de,3,2
+283,participation,8,5
+284,participation it,1,1
+285,patch debian package use locally,73,72
+286,patreon en,1,0
+287,perche conoscere piu linguaggi programmazione,5,4
+288,perche devi fare ticket segnalazione programmi open source,11,11
+289,perche lautomazione programmatore importante,8,8
+290,perche python mi piace ma continuo usarlo,204,190
+291,perche usare owncloud,51,32
+292,perche usare owncloud anni dopo,311,277
+293,perche usare owncloud anni dopo owncliud,1,1
+294,perche usare sassless,117,103
+295,perche vivo open source,57,31
+296,perche vivo open source edition,44,29
+297,perche woothemes product vendor fa schifo,39,23
+298,perugia comics vista uno zagoriano,10,10
+299,php it,1,1
+300,phpcompatinfo check minimum requirement your php code,20,17
+301,phpdoc rules php codesnifferphp code beautifier fixer,127,107
+302,plessc gui less compiler,1,1
+303,pointerplus wordpress pointer simplified,2,2
+304,postehack edition,8,5
+305,postehack edizione io,49,28
+306,posts,86,6
+307,posts page,13,0
+308,progetti accettati gsoc mozilla kde libreoffice,2,1
+309,programmazione,10,1
+310,proj management rc rc rcaltro,3,3
+311,pydal how remap your keyboard scripting linux easily,13,13
+312,pyqt,6,4
+313,pyqt it,2,0
+314,pystromo debian,1,1
+315,qasana simple interface asana,5,5
+316,quando testata web informatica passo tempi,35,29
+317,quando tp link soffre xss sito tuo powerline funziona,18,15
+318,quanto costa lopen source veramente gratuito,53,41
+319,recensione veloce hacker journal,54,43
+320,recruit motivate new volunteers,2,2
+321,recruit motivate volunteers italian way,20,11
+322,remove facebook direct links browser extension,123,97
+323,remove post fields options wordpress sql query,8,8
+324,resources,1,1
+325,retrogaming con nuova console raspberry pi,58,56
+326,rinominare gli mptramite id tag con eyed,6,6
+327,risorse,4,1
+328,risorse page,2,0
+329,san francisco all hands,12,8
+330,scaricare sito della rai dplay mediaset linux,415,346
+331,search pyqt,3,0
+332,send message slack bash,212,168
+333,servizi web privacy,1,0
+334,servizi web privacy ?replytocom=,1,0
+335,setup computer,2,2
+336,sha,102,88
+337,shaio,148,127
+338,sibbell githubs repo release notification easily,16,16
+339,simple boilerplate create map people list,54,48
+340,simple invoice manager tra noi,257,237
+341,siti italiani salvano le password inviano chiaro,203,147
+342,sito codice,19,13
+343,slack com konversation irc client,28,22
+344,smetto bloggerscontest,1,1
+345,speaker,99,10
+346,spiegare gnulinux tua nonna,44,39
+347,starkers tema basilare wordpress,2,2
+348,take back web benevento,9,6
+349,take back web campaign italia settimana,6,2
+350,telegram cambiato mia vita,331,297
+351,telegram cambiato mia vita embed,2,2
+352,teniamo aggiornato gmic trucchi,18,13
+353,the firefox osproblems,1,1
+354,the virtuosity reporting open source world,4,3
+355,ubuntu gnulinux che bel rapporto,1,1
+356,upload stuff push when branchmaster,5,3
+357,use specific ssh key domain,11,9
+358,use udoodocker,34,33
+359,useful composer plugins your workflow,694,635
+360,volpe panda,142,136
+361,webinar gratuito firefox developer tool,1,1
+362,websummit lisbona,6,6
+363,websummit lisbona io,4,3
+364,what open source software using mozilla,1,1
+365,what want mozilla london all hands,4,4
+366,when tp link suffers from xss site your powerline work,1,1
+367,who follow patreon about open source,9,9
+368,why developing browser extensions,39,32
+369,why open,16,5
+370,woothemes product vendor sucks,11,11
+371,wordcamp bologna wp terni wp roma meetup,4,2
+372,wordcamp europe,20,15
+373,wordcamp milano linux day roma,13,8
+374,wordcamp torino,23,18
+375,wordcamp torino free software activity day,5,3
+376,wordcamp torino free software activity day io,8,6
+377,wordcamp torino io,13,7
+378,wordpress,15,7
+379,wordpress boilerplate plugin,1,1
+380,wordpress filtro post ajax categorie checkbox,286,262
+381,wordpress installer scriptino che semplifica vita,6,6
+382,wordpress it,6,3
+383,wordpress mozilla days cosenza,15,6
+384,wordpress nonce guest user,120,109
+385,wordpress plugin boilerplate powered,228,185
+386,wordpress plugin boilerplate powered yeoman generator,13,11
+387,wordpress richiesta dati ftp localhost,38,33
+388,wordpress solo blog,12,10
+389,wordpress ui sperimentale gestione widgets,10,3
+390,workflow as developer,2,1
+391,wpbp,153,123
+392,xdotoolchange focus active window dual monitor,15,14
+393,years glotdict,36,28

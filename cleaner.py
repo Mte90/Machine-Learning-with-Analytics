@@ -10,7 +10,7 @@ def sanitize_slug(slug):
     slug = slug.replace(' da ',' ').replace(' on ',' ').replace(' do ',' ').replace(' non ',' ').replace(' ti ',' ').replace(' dal ',' ').replace(' dei ',' ')
     slug = slug.replace(' un ',' ').replace(' si ',' ').replace(' ad ',' ').replace(' del ',' ').replace(' at ',' ').replace(' is',' ').replace(' for ',' ')
     slug = slug.replace('e/o',' ').replace('/',' ').replace('guest post','guest').replace('guest_post','guest').replace(' or','')
-    slug = slug.replace(' to ',' ').replace(' and ',' ').replace(' an ',' ').replace(' by','').replace('was','').replace('its','').replace(' su ','')
+    slug = slug.replace(' to ',' ').replace(' and ',' ').replace(' an ',' ').replace(' by','').replace('was','').replace('its','').replace(' su ',' ')
     slug = re.sub('[0-9]+', ' ', slug)
     slug = re.sub(r'\?author=.*', '', slug)
     slug = re.sub(r'\?lang=.*', '', slug)
