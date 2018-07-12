@@ -3,6 +3,7 @@ import pandas as pd
 import re, os
 import requests
 
+
 def sanitize_slug(slug):
     slug = re.sub(r'\?author=.*', '', slug)
     slug = re.sub(r'\?lang=.*', '', slug)
@@ -24,6 +25,7 @@ def download_content(slug):
         content = re.compile(r'<[^>]+>').sub('', content).replace('&#8217;',"'").replace('&#8211;',"-").replace('&#8221;','"')
         return content
 
+
 count = 0
 df=pd.read_csv('./analytics.csv', engine='python')
 print("CSV caricato")
@@ -41,7 +43,6 @@ print("CSV pulito")
 print(str(df.shape[0]) + " righe")
 
 df['Pagina'] = df['Pagina'].apply(download_content)
-df = df[df['Pagina'] == '']
 print(str(df.shape[0]) + " righe")
 df.to_csv('analytics_content.csv')
 print("CSV riempito")
