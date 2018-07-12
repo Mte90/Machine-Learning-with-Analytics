@@ -27,9 +27,10 @@ print("Tonekizer caricato")
 model = LinearRegression()
 model.fit(X, y)
 dati = model.predict(X)
-df['dati'] = dati
-df.to_csv('X.csv')
-print('Dati salvati')
+df['Errors'] = dati
+df.drop(df.columns[[0]], axis=1, inplace=True)
+df.sort_values('Errors').to_csv('X.csv')
+print('Errori salvati')
 
 def linearregression(X, y):
     model = LinearRegression()
