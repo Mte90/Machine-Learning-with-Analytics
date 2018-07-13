@@ -27,7 +27,6 @@ def sequentialregression(X, y, name):
     )
         
     predict = model.predict(X_test)
-    print('Errori salvati')
     test_score = r2_score(y_test, predict)
     
     training = model.predict(X_train)
