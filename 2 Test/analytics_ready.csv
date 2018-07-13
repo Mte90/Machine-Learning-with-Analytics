@@ -1,4 +1,4 @@
-Unnamed: 0,Pagina,Visualizzazioni di pagina,Accessi
+,Pagina,Visualizzazioni di pagina,Accessi
 0,"I remember when everything is started&#8230;
 In November 2015 at MozFest London I experimented to do an extension with the new technology WebExtension and I said to me: I can do it, is standard html, js and css with a file that contain the information and load for me the file in the pages that I want.
 The mainly issue was that I am a developer with no fantasy, so I never got an idea for months about do it an extension.
@@ -94,7 +94,6 @@ It displays some texts after each Composer update to nicely summarize the modifi
 pyrech/composer-notifier
 It displays desktop notification when Composer finishes install/update commands. https://github.com/pyrech/composer-notifier
 Ciao!",694,635
-3,,410,41
 4,"Do you know that a project on GitHub without a license is a proprietary software?
 Yeah!
 Do you know how many repository on your profile on GitHub or BitBucket don't have the license?
@@ -217,8 +216,6 @@ Cosa ha fatto Mozilla dopo questo sondaggio? Con questa esperienza ha realizzato
 Don’t Buy Gifts That Snoop: Introducing Mozilla’s Holiday Buyers’ Guide
 
 Cosa possiamo fare noi italici invece? Continuare a sensibilizzare su questi temi!",29,22
-10,,2,0
-11,,345,60
 12,"Anche questo dicembre ho potuto partecipare ad un All Hands di Mozilla. Cos'è un All Hands?
 All Hands are a unique and special opportunity for all paid staff and our most impactful volunteers to come together, in person, to share experiences and interact with people they may not normally work with (or just see over Vidyo). Given our size, work weeks are a key differentiator for us (larger organizations just can't do this sort of thing in a meaningful way). Being able to come together as a whole organization, 2x each year, exposes each of us to interactions that may spark new ideas and/or lead to new solutions. They are a core part of our annual planning process.
 In poche parole si capisce quale importanza ha una partecipazione di un volontario a questi eventi, che permettono di poter incontrare i vari team e di partecipare a riunioni oltre che aggiornarsi sulle cose fatte e future.
@@ -509,8 +506,6 @@ Zagor in Texas #yallhands #bonelli #comics https://t.co/2ccYJn9dXu pic.twitter.c
 &mdash; Daniele Scasciafratte🇮🇹 (@Mte90Net) December 16, 2017
 
 In short, we see the differences from last year, now the questions are about what we expect 2018, the things we have to do as a community and that Mozilla is carrying out.",23,17
-14,,1,0
-15,,1,0
 16,"Si lo sò se nè parlato tanto di questo bug ma vedendo le testate giornalistiche dei quotidiani italiani l'ignoranzità quotando vegeta è di questo tipo:
 
 Facciamo qualche esempio:
@@ -576,8 +571,6 @@ In chinese language is known as Fire Fox becoming the name of the browser.
 So the correct name to call Firefox is not panda but fox. They are inspired by his name. In fact, as says an old page of Mozilla Firefox is the alternative name of this animal. Like saying Pussy instead of Cat.
 But it is the name of the software in fact the whole brand and merchandising has a fox of fire.
 The next that corrects because it uses fox or panda now knows how to respond 🙂",45,37
-18,,2,1
-19,,326,23
 20,"Proseguiamo con la carrellata di link inerenti i css!
 Come detto l'altra volta per i tools css c'è la pagina specifica nel mio sito che aggiorno quando ho qualche chicca 🙂
 Risorse CSS:
@@ -625,8 +618,6 @@ Periodic Table of the Elements
 Tabella periodica dei vari tag html
 HTML5 Doctor
 Tutorial su html5",5,4
-21,,1,1
-22,,1,1
 23,"Raramente partecipo ad eventi non tecnici in ambito informatico anche perché mi annoio facile se l'argomento non mi interessa tipo il marketing.
 Il Community Leadership Summit Italy é l'eccezione alla regola.
 Conoscevo l'evento dalla prima edizione in febbraio a Milano ma il viaggio e le date erano contro di me.
@@ -707,7 +698,6 @@ Open the decisions at everyone: Initially it is preferable to make a selection b
 A funny detail is that the first time I received many photos and tweets of my talk, perhaps demonstrating that the subject has received some interest.
 I suggest you attend the next if you are interested in these issues not only for the talk but also for people.
 [View the story &#8220;CLSxItaly Rome 2016"" on Storify]",4,3
-25,,2,2
 26,"You probably never thought about: What if I can get stickers for my contributions on open source on GitHub?
 Now it's possible and in my experience I can say that is true!
 CodeCuriosity is very simple, after the registration will ask you to set what is your goals every month and will track your activity.
@@ -1577,7 +1567,6 @@ The other features of DaTask is the login frontend system, the AJAX search, Boot
 Demo site: http://datask.daniele.tech/
 For a real site that use that (in Italian): http://passopasso.daniele.tech/
 See you next time!",4,4
-43,,1,0
 44,"La Debian Ubuntu Community Conference si è riunita quest'anno, dopo un anno di pausa, stavolta a Vicenza.
 
 
@@ -1989,7 +1978,6 @@ The Headless mode of Firefox seems very interesting
 Another point that surprised me was that after 2 years of doing talk about extensions in Italy there is finally interests in this technology. Before there was very few interests, today (maybe also because JavaScript is more knwon) Firefox is fast and today make an extension is very easy and fast.
 Many people after the meetups informed me that they switched to Firefox Nightly, another point for us!
 Both the meetups recorded the talks so they will be available in Italian on YouTube pretty soon.",11,9
-49,,10,5
 50,"Questo (lungo) articolo (prendetevi dieci minuti) nasce da una chiacchierata con un mio vecchio amico, che, dopo i miei vari proseliti per il passaggio a Linux ha deciso di provare Ubuntu su un computer perché non trovava il cd di Windows.
 Che abbia fatto questo passaggio perché non trovava il cd non mi sembra sbagliata come situazione, ma la parte successiva (ovvero le questioni che lui si è posto) a questa installazione mi ha fatto nascere l'idea per un'articolo con un'elenco delle differenze tra il mondo GNU/Linux-BSD-Hurd e quello di Windows/OSX.
 Che abbia scelto Ubuntu mi fà storcere il naso ma d'altronde è la distro Linux più diffusa.
@@ -2136,7 +2124,6 @@ Con questo comando uccidiamo i vari processi di udisks che usa gparted che andav
 Potete montare le vostre pennette senza dare
 reboot
 Alla prossima!",2,2
-54,,4,0
 55,"Dopo più di un mese dalla prima scrittura ecco a voi il pdf che contiene le tre puntate di questa introduzione a PyQT.
 La guida doveva essere pubblicata su GeekClass ma vista la situazione attuale ho deciso di pubblicarla sul mio sito in formato pdf.
 La guida è scritta secondo il mio stile molto diretto, sono 13 pagine con esempi di codice che fanno riferimento al mio programma LearnHotkeys presente su Github.
@@ -2153,7 +2140,6 @@ Il repo è su github: https://github.com/Mte90/PyQT-Boilerplate
 Ovviamente è allo stato iniziale quindi potrei fargli altri aggiunte 🙂
 La prossima edizione lo citerà 🙂
 &nbsp;",46,19
-56,,3,0
 57,"Is very annoying when you found a debian package but is not installable on your systems because this use a package name that is not updated or not available for a cross distro problem.
 This is a common problem with debian package for proprietary software that are not updated or really cross system so sometimes to install a package the best way is edit the depends with the correct packages names or delete to install them.
 The problem is that the debian package is a compressed package with a specific structure and require some commands for that.
@@ -2264,7 +2250,6 @@ Altre Fonti:
 http://www.ghacks.net/2014/07/12/mozilla-plans-release-electrolysis-multi-process-architecture-firefox-36/
 http://www.soeren-hentzschel.at/mozilla/firefox/2014/07/12/was-machen-eigentlich-electrolysis-e10s-und-shumway/
 Grazie Geko per la traduzione in inglese!",16,15
-60,,2,2
 61,"The web is amazing and everyday there are new technologies that change that world.
 Emoji are one of them but why?
 I was one that grow with smiley like 🙂 and next moved to emoticon but now Emoji are the new standard that creates problem on many devices and operative systems.
@@ -2493,7 +2478,6 @@ In the same days we got over 1500 likes on Facebook!
 
 Abbiamo raggiunto i 1500 mi piace su questa pagina!Grazie a tutti voi per il sostegno che ci date con i vostri&#8230;
 Pubblicato da Mozilla Italia su&nbsp;Domenica 3 settembre 2017",7,7
-64,,790,589
 65,"Why
 Friends and open source fan ask me everything about the projects that I follow (most time I follow projects as fan boy) and the developers ask me about interesting libraries. I'm the Super Archive Hero for someone but i think that now is the time to do a weekly report about my reading or discover in the web.
 I read a lot about the open source daily, with this series of posts i introduce the news/articles/tools very very interesting that I read in Italian and in English every week.
@@ -2666,7 +2650,6 @@ See what Facebook know about you!
 Repo: https://github.com/Mte90/fb-photo-info
 Firefox: https://addons.mozilla.org/it/firefox/addon/fb-photo-info/
 Chrome: https://chrome.google.com/webstore/developer/edit/flmncolmeoninkjlpellioicabmbhahk",77,37
-70,,4,1
 71,"Rieccoci e stavolta parliamo di un quasi flame su facebook 😀
 Vi lascio il link di facebook ma vediamo di parlarne un'attimo.
 A quanto pare esiste la FSF ma non la fsf che conosciamo noi comuni mortali ma la Feminist Software Foundation!
@@ -3246,8 +3229,6 @@ Dì la tua anche tua in questa mailing list in inglese, in modo esaustivo e moti
 &nbsp;
 Se usi Gnome sappi che noi KDEiani conquisteremo il mondo!
 Grazie Geko per la traduzione in inglese!",17,17
-83,,3,1
-84,,3,1
 85,"Given the euphoria of the day here is my report/history/impressions of the day of Saturday, January 26 in Rome dedicated to the development of Web App for FirefoxOS.
 Point out that i'm a mozillian for those who does not know what it means to run to read here.
 You will alert that it is very long 🙂
@@ -4573,7 +4554,6 @@ Insert in this url:
 https://groups.google.com/forum/feed/mozilla.dev.developer-tools/msgs/rss_v2_0.xml?num=50
 
 Now i have removed by email subscription and follow other 5 groups. My mail inbox is happy 😀",118,111
-109,,157,15
 110,"Like every year also this one there will be the Hacktoberfest where everyone with 4 pull requests can win a T-Shirt and few stickers.
 For me there will be the 3rd year on that competition online and like the last year my projects are available for contributions.
 
@@ -4608,7 +4588,6 @@ To find tickets for wordpress look on https://make.wordpress.org/core/reports/.
 &mdash; Daniele Scasciafratte🇮🇹 (@Mte90Net) January 18, 2016
 
 See you on GitHub, maybe also on my projects or others!",51,39
-112,,5,5
 113,"I am not an expert of GDPR but probably like you I was looking for a way to add GDPR support on my freemium plugin, WooCommerce Fiscalità Italiana.
 The problem actually that aren't available on the net articles or tutorial about how to do it&#8230;
 There is the official announcement of WooCommerce about 3.4 that add this support but now how to use for developers.
@@ -4785,7 +4764,6 @@ At #MozLondon with @Mte90Net @elioqoshi @KohlerSolutions pic.twitter.com/fc5N38w
 &mdash; Henrik Mitsch (@hmitsch) June 14, 2016
 
 Because the group photo are the best one 😀",7,5
-118,,2,1
 119,"After nearly a month after its launch it was time for me to do an article peno links and videos.
 Introduction
 I started to participate in the community of Mozilla Italy before my famous talk on Firefox OS and have contacted me to participate in the launch Italian. The launch team I had the role of Italian Firefox OS Training Lead which I was very impressed. For the first time I was able to get some credit for my skills in open source shared by multiple people for an event so important especially for the fact that I had gone for a short time (a few months) in the community.
@@ -4812,8 +4790,6 @@ What happened after the launch
 With the help of the translators of Italian Mozilla I'm doing the translation and expansion ofFirefox OS quick guide for developers. I wanted to write this guide for a long time but after this discovery, I decided to translate it and add the material (even not public) I think is missing.
 Also for developers I'm working on apolyfillfor the Web Activity for desktop browsers.
 That being said I'll leave you two photos of the launch that concern me:",7,4
-120,,1,1
-121,,1,1
 122,"Ormai da tempo mi stavo domandando che senso avesse continuare lo sviluppo in un cms che non dà sbocchi in futuro.
 Secondo me il sistema New-Cms/Flatz-Cms segue un vecchio stile di programmazione dove tutto il codice sta nella stessa pagina mentre oggi si usa il pattern MVC ovvero Model-View-Controller dove il codice per ogni cosa è diviso in 3 parti indipendenti e si basa su classi.
 Tutto questo invece non c'è in questo sistema tutte funzioni, codice simile che cambia leggermente da modulo a modulo, salvataggio dei dati su file di testo che vengono splittati mentre altri cms flat usano xml o inseriscono direttamente variabili php per rendere il cms più performante.
@@ -5206,7 +5182,6 @@ Use this command to install Gstreamer with the right packages and codecs:
 apt-get install gstreamer0.10-alsa gstreamer0.10-ffmpeg gstreamer0.10-fluendo-mp3 gstreamer0.10-plugins-base libgstreamer-plugins-base0.10-0 libgstreamer0.10-0 libgstreamer0.10-dev gstreamer0.10-plugins-good gstreamer0.10-plugins-ugly gstreamer0.10-plugins-bad gstreamer0.10-tools
 This webcam render directly in H264 then installing these codec fixes the problem.
 Source: http://fablabamiens.org/index.php?title=Raspberry_for_HD_Video_Streaming",168,135
-131,,2,1
 132,"Nel 2013 scrissi per diletto una guida da 14 pagine su come usare PyQT.
 In poche parole un approccio veloce su come usare gli strumenti delle Qt ed abbinare il tutto a Python.
 A due anni di distanza ho deciso di sistemare la guida, aggiornando gli snippet inclusi e sistemando diverse cose.
@@ -5225,7 +5200,6 @@ Se vuoi partecipare per migliorare questa guida che attualmente consiste in 13 p
 Ricordo ancora che la guida è gratuita 🙂
 Documento: https://docs.google.com/document/d/1U6pNkwxrtkOiX6VOAyUXoDGFNsm5fIPWSiGxJBcMzG4/edit
 1 edizione: http://www.daniele.tech2013/04/ebook-introduzione-a-pyqt-1-edizione/",4,1
-134,,7,5
 135,"Dopo quasi un mese dal lancio era ora che facessi un'articolo pieno di link e di video.
 Prima di tutto informo che esiste la pagina Facebook ed un'account Twitter di Firefox OS in Italia gestita da Mozilla Italia.
 Premessa
@@ -5267,9 +5241,6 @@ Concludo con un video di ricordi di Pinperepette:
 Ed uno sulle anticipazioni della ciurma per quest'anno:
 
 Il prossimo video sarà dedicato al retro gaming ma io non vi ho detto niente, ed a breve anche un'articolo su come flashare Firefox OS sul telefono dell'Alcatel!",3,2
-136,,4,3
-137,,1329,675
-138,,2,0
 139,"The joystick. The world of gaming console. A world that I never liked for the shooter, for other games joysticks are perfect. Yes I've never had the console apart from the mythical gameboy color.
 WebGL has brought 3D on JavaScript but lacked a way to allow players to use their beloved joysticks!
 The advantages are interesting to play, just attack the joystick, connect to a site, wait for the loading of material and press play. Think then with WebSockets for multiplayer games.
@@ -5338,7 +5309,6 @@ HTML5 Gamepad Tester - http://html5gamepad.com/
 Esempi di codice - http://gamedevelopment.tutsplus.com/tutorials/using-the-html5-gamepad-api-to-add-controller-support-to-browser-games-cms-21345
 Esempi interattivi con introduzione - http://www.html5rocks.com/en/tutorials/doodles/gamepad/
 Altra documentazione - http://docs.webplatform.org/wiki/tutorials/gamepad",25,20
-141,,6,1
 142,"Dopo la guida su HTML5 (non è stata ancora pubblicata tutta!) ho scritto anche una guida per JavaScript veramente basilare.
 La guida è pensata per chi non sà programmare ed è già online con la prima puntata dal nome Nascita ed Evoluzione di JavaScript.
 Come si vede dal titolo partiamo dai fondamentali storici che servono per capire il mondo che approfondiremo nelle prossime settimane.
@@ -6006,7 +5976,6 @@ In quel percorso trovate il programma lo avviate, consiglio da root così andate
 Mi ha salvato perchè LibreOffice mi stampava i fogli in modalità PDF e non PostScript Livello 1.
 Succedeva che i fogli orizzontali me li stampava verticali tagliando il tutto.
 Bèh alla prossima!",1,1
-155,,2,0
 156,"Quest'anno ho partecipato di nuovo come relatore al Roma2Lug con il talk Firefox OS Development for Newbie.
 Premessa
 L'anno scorso mi presentai con il talk Firefox OS per utenti e sviluppatori (che filmai) che segna la mia entrata in campo in modo veramente incisivo nel mondo dell'open source.
@@ -6272,7 +6241,6 @@ Installandola si sarà sicuri che il gioco funzioni senza problemi però non si 
 Diventerà una specie di Android però potremo giocare.
 Ne vale la pena???
 PS: Chiudo Così 🙂",5,5
-162,,6,2
 163,"Da qualche settimana sul canale #core-help di WordPress Italia su Slack sto portando avanti riunioni sullo stile delle new-contributor della comunità internazionale ma in lingua italiana.
 Al momento abbiamo due riunioni, nel nostro storico e mi è stato chiesto se potevo fare un video di scelta dei ticket e come fare una patch e caricarla.
 Questo video di 20 minuti (inclusa gaffe con un comando git per la creazione di un ramo) e delle notifiche di Thunderbird include lo stretto necessario senza essere noioso e tutti i passaggi allo stesso tempo.
@@ -6583,7 +6551,6 @@ Honestly, I care little because the aim of Mozilla is promoting a free and open 
 
 Link slide: http://www.gdg-firenze.info/lista-eventi-italiani/mobile-embed
 Photo events: https://plus.google.com/u/0/events/cdqe7jg6asadihebet8m7j6gpfk",1,0
-171,,15,5
 172,"Sono stato selezionato per partecipare anche questa volta a &#8220;All Hands"" che è avvenuto alle Hawaii.
 Per chi non ci crede questa è la mia faccia dopo 24 ore di voli:
 
@@ -9203,7 +9170,6 @@ The event was useful to meet new and old friends, also for the first time in liv
 We have many ideas but the first step are to define the rules for our community and promote the borning of new clubs.
 From the photo is difficult to understand but I met many people and talked so much.
 After all is an event of mozillians 😀",12,9
-184,,6,2
 185,"Last weekend has really been full of activities and meetings in the city of Berlin.
 9 and 10 September I attended the global meetup ofMozilla Tech Speakers with the participation from around the world of 26 people.
 
@@ -9576,8 +9542,6 @@ Non poteva mancare la foto di gruppo!
 
 In conclusione a parte il caldo di Berlino, questo fine settimana é stato molto importante per poter imparare e decidere molte cose da fare nei prossimi mesi.
 Incontrare tutti é molto importante perché non é facile riunire tutte queste persone ma questi eventi dimostrano che é possibile farlo!",8,5
-187,,216,19
-188,,2,1
 189,"After two years from this article and one from this and with the success of this posts we will see the list for 2017.
 The detail to note is the increase in the number of extensions without slowing down thanks to the improvements of Firefox themselves and new WebExtensions.
 This article is a list of extensions that I use every day.
@@ -10799,8 +10763,6 @@ Check on PageSpeed.
 I also updated the About page and created a new one about Speaker stuff. Also the Mozillian get new updates.
 So there are few changes that improve a little bit the user experience of a website that continue to have 20 visit at day with no many posts every month.
 I am open as always for suggestions about posts to write of course 🙂",24,16
-207,,1,1
-208,,22,16
 209,"Software like RecordMyDesktop save the video file as ogv but sometimes is better a little gif!
 On https://github.com/Mte90/Script/blob/master/ogvtogif.sh you can find a little script by me.
 How it works?
@@ -10808,7 +10770,6 @@ Convert the ogv in single jpg frames, next convert this files to an animated gif
 Example?
 
 Yes Youtube is funny sometimes.",15,14
-210,,25,6
 211,"Il titolo dell'evento dovrebbe bastare per capire l'argomento di questo evento in Italia del nord.
 Questo evento esiste dal 2006 (da quello che ho capito) e mi dispiace di averlo scoperto nel 2014 perchè se il Codemotion è per programmatori questo è per gli amanti dell'Open Source e dell'informatica di tutti i livelli.
 Dico di tutti i livelli perchè mi riferisco a difficoltà, perchè ogni talk aveva un grado da 1 a 5 che permette alle persone di valutare le complessità degli argomenti.
@@ -10910,7 +10871,6 @@ Le idee ci sono (Arduino non è creato da un'azienda ma è un prodotto open in t
 Il pensiero comune che ho visto lavorando &#8220;c'è quel software gratuito che fà quello che serve a noi ed è pure open quindi se abbiamo problemi ce lo sistemiamo come vogliamo"", senza contribuire alla radice.
 Concludendo come molte altre cose in Italia manca la cultura di base, come per esempio il vandalismo ai monumenti storici invidiati da tutto il mondo, il riciclaggio, il rispetto nell'ambiente, il rispetto tra i tifosi di calcio (ho già detto che odio questo sport?) che finiscono spesso in eventi che ricordano la pimavera araba (ovvero botte, distruzione e soldi che tutti dobbiamo rimetterci), manifestazioni pacifiche che si concludono con l'assalto (grazie ai 4 soliti imbecilli) ai poliziotti, le macchine parcheggiate che vengono distrutte, negozi demoliti e così via.
 Questo articolo come gli altri del #BloggersContest sono coperti da licenza Creative Commons.",11,10
-214,,11,3
 215,"Web is cool. Web have images. Many images. Many huge images!
 Trimage is a simple gui (available on Linux) solution to optimize the images (use different tools for PNG and JPG) but with an huge number of image don't work very well (I talk about other than 400).
 After a search on internet I've founded image_optim, a powerful ruby software, that supports many tools and work from CLI.
@@ -11271,7 +11231,6 @@ The event organization was very good, the after event and the place wasn't very 
 At the same time too many technical talks about dev stuff when the audience is not mainly a developer.
 From my point of view I will think about work more on the schedule and change the audience target because the hospitality and promotion the event was very very good.
 &nbsp;",9,7
-220,,1,1
 221,"Se stai leggendo questo articolo forse hai trovato il link sui social o sul video di Youtube.
 Se vieni da Youtube è inutile che leggi l'introduzione quindi salta direttamente le righe seguenti e vai ai link di riferimento.
 L'idea di Parliamo Di è di fare mini presentazioni con il mio parere per presentare progetti open source o novità e coprire un pubblico meno tecnologico o avanzato con dei video più semplici. Il primo esperimento è questo dedicato a Firefox 29 ed alla sua nuova interfaccia.
@@ -11345,9 +11304,6 @@ Il sondaggio ha espresso la volontà popolare di parlare di KDE il miglior DE? o
 Come al solito ecco il link del sondaggio https://docs.google.com/forms/d/1T2D6O2s01p_n-B7S1CclDhgchCi0aWGGoN5b5YI46KY/viewform dite la vostra!
 Al momento vince Firefox for Android seguito da Javascript Vanilla vs jQuery, sta a te votare e far girare la voce!
 &nbsp;",3,2
-225,,10,5
-226,,1,1
-227,,1,0
 228,"Scrivo questo post dopo una lunga discussione su Facebook fatta alcuni giorni fà con alcuni amici sviluppatori.
 L'argomento era &#8220;È giusto conoscere molti linguaggi di programmazione?""
 La risposta su cui abbiamo concordato era che sapere uno o più linguaggi in modo approfondito è importante perchè il proprio lavoro/passione fà affidamento su questo ma è anche bene conoscerne altri sia per curiosità o per bagaglio personale.
@@ -11419,7 +11375,6 @@ Per questo mi piace rimanere aggiornato sulle news informatiche perchè scopro s
 Insomma se non usi tool di automazione sei sempre in tempo per farlo. Se non esistono, li puoi fare in modo che siano perfetti alla tua situazione.
 Per sicurezza io tutti i tool li testo non si sà mai se becco qualche errore strano.
 PS: pochi meme perchè non ne ho trovati. Anche se i tool per farli ci sono. Si non avevo voglia.",8,8
-231,,2,2
 232,"Partiamo dal presupposto che programmo principalmente in PHP e JavaScript quindi graffe e punti e virgola a fine riga.
 Ho imparato Python 3 anni fa con il libro Rapid GUI Programming With Python and Qt: The Definitive Guide to Pyqt Programming e con Pocket Python dell'Apogeo.
 In poche parole ho scelto Python perchè mi è sembrata la soluzione più veloce per usare le QT senza dover imparare il C.
@@ -11746,7 +11701,6 @@ Al mio ritorno a casa mio padre era curioso di vedere cosa ho riportato e quando
 
 Detto questo vi saluto alla prossima fiera (NarniaFumetto? Romics?) e ci vediamo al WP Talk Italy a Roma il 27 Maggio a Roma dedicato a WordPress (si ritorna a parlare di cose tecniche insomma). Per chi invece è fanatico di elettronica ci vediamo sabato mattina ad Amelia (Terni) alla fiera dell'elettronica (quanti eventi ultimamente o.0)!
 PS: Un rumors quasi ufficiale afferma che la ristampa a colori di Zagor proseguirà ad oltranza ma voi non avete letto niente!",10,10
-240,,1,1
 241,"PHPCompatInfo is a powered tool that analysis a folder with php files and report about the minimum version of php runtime required.
 Very useful for test a project before the release on production!
 How to install
@@ -12137,7 +12091,6 @@ A post shared byDaniele Mte90 Scasciafratte (@mte90) on Sep 25, 2016 at 11:35am 
 
 
 Album fotografico del Talent Garden",49,28
-247,,86,6
 248,"Sono uscite i progetti approvati e dal 19 Maggio partirà lo sviluppo quindi dovrò aspettare un mese prima di avere qualche cosa su cui sbavare. Si sbavare perchè alcuni progetti sono veramente faighi.
 
 Si la mia estate la passerò a seguire i vari sviluppatori sui social.
@@ -12223,7 +12176,6 @@ Make libbluedevil async: Supporto asincrono alle periferiche bluetooth!
 
 
 Perchè solo due? Perchè i vari progetti sono il passaggio alle QT5 per diverse cose e altre cose non importanti come quelle che ho citato.",2,1
-249,,10,1
 250,"29/03/10
 Un mese pieno di rilasci!
 C'è chi si chiederà perchè tutti questi rilasci così velocemente&#8230;
@@ -12321,8 +12273,6 @@ The idea is to have 2 keyboard, the mainly one with all the keys (and also multi
 Usually the footswitch or pedal on key pressure write on output keys like numbers and from your DE you cannot configure what keyboard to use for a remapping, this script is there to help you.
 The project is on https://github.com/Mte90/pydal, get fun!
 The readme contain the installation, configure and how to use it with my examples and an introduction.",13,13
-253,,9,4
-254,,2,0
 255,"For install pystromo on Debian i have used two guide:
 
 http://ubuntuforums.org/showthread.php?t=948833
@@ -12600,7 +12550,6 @@ In that case the code was very simple because don't use the GreaseMonkey api so 
 This simple script hack that behaviour and now is an extension for Firefox and Chrome.
 Now I don't need anymore Greasemoneky also if I was using few scripts for GitHub also I need them but the author don't want them to convert as extension.
 It's your turn to spread the voice for the browser extensions 😀",137,104
-264,,1,1
 265,"Questo video ha richiesto qualche giorno di lavoro dal doppiaggio al montaggio e queste cose per uno come me sono noiose!
 Avviso che il video è anche una parodia!
 In questo articolo non spoilero il video ma vedremo nel dettaglio alcune cose tralasciate per non allungarlo troppo.
@@ -12633,7 +12582,6 @@ Ovviamente dovete avere dei tag Id3 corretti e per questo consiglio di usare Kid
 A proposito di Kid3 chissà perchè ha un'ottima gestione dei tag Id3 ma non sulla rinominazione dei file.
 Il prossimo articolo per gli mp3 sarà dedicato a MusicBrainz Picard.
 PS:Su bash.daniele.tech potete trovare il mio script che converte tutti gli mp3 in una cartella in un determinato bitrate.",6,6
-267,,4,1
 268,"Looking for superman from the #Mozilla San Francisco office #sfallhands
 A post shared byDaniele Mte90 Scasciafratte (@mte90) on Jul 2, 2017 at 1:13am PDT
 
@@ -13647,7 +13595,6 @@ To see in action from other people:
 
 https://tchspk.rs/map/
 https://community.rs/meetup-map/",54,48
-277,,257,237
 278,"Come è nato il progetto
 Tutto è successo documentando un fatto che era appena avvenuto.
 Facendo un abbonamento sul sito Sprea ho scoperto una cosa molto grave ovvero che la password è salvata in chiaro nel sito e viene mostrata in chiaro nella modifica!
@@ -13825,7 +13772,6 @@ Sperando di non aver lasciato qualche punto scoperto o non spiegato bene, vi sal
 Farò girare il link ai vari blogger che conosco per sentire il loro parere perchè potrei anche essere in errore io.
 PS:  il tema attuale del BloggersContest di questa settimana riguarda i propri dati tema già trattato nel #BloggersContest anche qui precedentemente (Di unhosted ne ho parlato diverse volte).
 Il BloggersContest di LinuxBird è una genialata comunque 😛",1,1
-282,,107,13
 283,"Si torna con il #BloggersContest!
 Questa volta la scelta dei temi viene fatta tramite sondaggio ogni settimana e la donazione và diretta ai progetti open source candidati e votati.
 Questa settimana ho fatto strike perchè entrambe le mie proposte hanno vinto! Il tema di questo articolo e il progetto che è Simple Invoice Manager (attualmente è in sviluppo la beta)!
@@ -14075,8 +14021,6 @@ Video Interview with english subtitles: https://amara.org/it/videos/BBB5GvKYZuXJ
 Official Album: https://www.flickr.com/photos/135182404@N03/albums/72157666486820884
 Other albums: https://www.facebook.com/media/set/?set=a.10153887800643423.1073741905.342593423422
 Is now the turn of Cagliari where, however, I can not go for reasons of remoteness 🙁",3,3
-287,,3,1
-288,,3,1
 289,"As the picture (click it to go to the official website) the campaign Take back the web is dedicated to safety and the knowledge of our data distributed over the web.
 It is a new way for Mozilla to make a campaign globally and we Italians could not miss that!
 This campaign was opened to universities as organizers team and experienced people as Local Coach to help them.
@@ -14363,7 +14307,6 @@ Conclusion
 Probably there are better ways to use Docker but I don't want to learn a new tool that is so complicated that have a lot of different release (that change many things from release to release) and that probably the next year will be replaced by another one.
 Many will ask why using Vagrant, because I develop websites and a VM with different websites on the same stack is more easy for me and create less headache compared to docker.
 I need docker because many open source projects use that and if I want to contribute I need a docker solution that works without any problems.",34,33
-302,,37,3
 303,"Nuovo tema per il BloggersContest :
 Cosa rappresenta Ubuntu per GNU/Linux e per l'open source? Qual è la vostra opinione in merito alle politiche di Canonical sullo sviluppo di questo progetto e al suo finanziamento? E' più importante contribuire al Kernel o diffondere Linux a fette di utenza che finora non erano state raggiunte?
 Cos'è Ubuntu
@@ -14433,7 +14376,6 @@ In lingua cinese è conosciuto come Volpe di Fuoco diventando il nome del browse
 Quindi il nome corretto per chiamare Firefox è volpe non panda. Si sono ispirati al suo nome. Infatti come dice una vecchia pagina di Mozilla Firefox è il nome alternativo di questo animale. Un'pò come dire Micio invece di Gatto.
 Però è il nome del software infatti tutto il marchio ed il merchandising ha una volpe di fuoco.
 Il prossimo che corregge perchè usa volpe o panda adesso sà come deve rispondere 🙂",142,136
-307,,2,1
 308,"Il 2014 è stato un anno molto stimolante come programmatore ma anche come relatore visto i molti eventi in cui ho partecipato come tale ed anche come semplice ascoltatore.
 Anche nel 2015 questa cosa proseguirà ma i ritmi probabilmente cambieranno visto il lavoro che finalmente sta ingranando.
 Purtroppo i miei talk nel 2014 non sono mai stati registrati e resi disponibili sulla rete per la visione di chi non può partecipare fisicamente agli eventi.
@@ -16128,7 +16070,6 @@ Foto di gruppo: https://www.facebook.com/WordCampTorino/photos/a.758198644304367
 Foto da spiegone che faccio solitamente durante la settimana su #core-help, stavolta dal vivo: https://www.facebook.com/WordCampTorino/photos/a.758198644304367.1073741840.332582443532658/758199257637639/?type=3
 Abbiamo poi avuto modo di parlare dei prossimi wordcamp e delle cose da fare.
 Prossimo WordCamp per me? Bologna in Maggio dedicato agli sviluppatori!",13,7
-330,,15,7
 331,"Thanks to Mozilla TechSpeakers program along with Eugenio we organized an event in Cosenza thanks to the availability and interest of Hacklab of Cosenza.
 We decided to try a new format to promote crossing the interest in web technologies by organizing two days of WordPress and Mozilla.
 We must say that the guys of the Hacklab really do it so much with the promotion and realization of exceptional promotional graphics.
@@ -16270,7 +16211,6 @@ In this way the nonce is the same also for frontend, but for guest user the key 
 To improve the security for not guest user is only use a complicated action that contain data like email (the encrypted key use also the salt that you've defined in wp-config.php!).
 With &#8216;wp_verify_nonce' this workaround is compatible with &#8216;wp_create_nonce' because use the same functions.
 The code? Is on gist: https://gist.github.com/Mte90/a1b6443aabe14386fa3b",153,142
-333,,1,1
 334,"Nel repo dei plugin ufficiale nè su codecanyon non c'è niente che permetta di filtrare i post a seconda delle categorie selezionate e di aggiornare la pagina in automatico.
 Ho perso un pomeriggio intero per trovare una soluzione ma esistono solo dei campi di ricerca in cui si può impostare quali categorie mostrare in un menù a tendina.
 Per implementare questa caratteristica non è richiesto molto codice ma mettiamoci all'opera!
@@ -16398,7 +16338,6 @@ Se non conoscete i tool fatelo il prima possibile perchè vi semplificano molto 
 All'interno dello script c'è la spiegazione su come usarlo, i tool che ho citato sono necessari quindi dovete installarli!
 Non posto qui i comandi per l'installazione perchè così potete farlo secondo le vostre necessità usando i comandi più recenti prendendoli direttamente dai siti di riferimento.
 Se avete suggerimenti commentate qui sotto o aprite qualche ticket 🙂",6,6
-336,,6,3
 337,"Grazie al programma Tech Speakers di Mozilla insieme ad Eugenio abbiamo organizzato un evento a Cosenza grazie alla disponibilità ed interesse del Hacklab di Cosenza.
 Abbiamo deciso di provare un nuovo format di promozione incrociando l'interesse per le tecnologie web organizzando due giorni su WordPress e Mozilla.
 Bisogna dire che i ragazzi del hacklab si sono dati veramente da fare con la promozione e la realizzazione di grafiche promozionali eccezionali.

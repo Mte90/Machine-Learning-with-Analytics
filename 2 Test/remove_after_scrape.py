@@ -1,9 +1,11 @@
 #!/usr/bin/env python3
 import pandas as pd
+import numpy as np
 
-df=pd.read_csv('./analytics_content.csv', engine='python')
-df = df[df['Pagina'] != '']
+df=pd.read_csv('./analytics_content.csv', engine='python', encoding = 'utf-8')
+df['Pagina'].replace('', np.nan, inplace=True)
 df.drop('Unnamed: 0.1', axis=1, inplace=True)
-df.dropna()
-df.to_csv('analytics_ready.csv', index=False)
+df.dropna(subset=['Pagina'], inplace=True)
+df.drop('Unnamed: 0', axis=1, inplace=True)
+df.to_csv('analytics_ready.csv')
 print("CSV pulito nuovamente")
