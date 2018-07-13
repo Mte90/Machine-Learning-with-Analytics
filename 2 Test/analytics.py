@@ -17,13 +17,13 @@ def sequentialregression(X, y, name):
     
     model = Sequential([
         Dense(800, input_shape=(16218,), activation='relu'),
-        Dropout(0.5),
+        Dropout(0.3),
         Dense(1, activation='linear')
     ])
     model.compile(metrics=['mse'], optimizer='rmsprop',loss='mse')
     model.fit(X_train, y_train,
               validation_data=[X_test, y_test],
-              epochs=20
+              epochs=30
     )
         
     predict = model.predict(X_test)
