@@ -16,7 +16,7 @@ def sequentialregression(X, y, name):
     X_train, X_test, y_train, y_test = train_test_split(X, y, train_size=0.5)
     
     model = Sequential([
-        Dense(800, input_shape=(16218,), activation='relu'),
+        Dense(800, input_shape=(16029,), activation='relu'),
         Dropout(0.3),
         Dense(1, activation='linear')
     ])
