@@ -36,11 +36,11 @@ def sequentialregression(X, y, name):
     np.savetxt('./' + name + '_X.txt', training)
     np.savetxt('./' + name + '_y.txt', predict)
     
-    ridge = Ridge()
-    visualizer = ResidualsPlot(ridge)
-    visualizer.fit(X_train, y_train)  # Fit the training data to the visualizer
-    visualizer.score(X_test, y_test)  # Evaluate the model on the test data
-    g = visualizer.poof()
+#    ridge = Ridge()
+#    visualizer = ResidualsPlot(ridge)
+#    visualizer.fit(X_train, y_train)  # Fit the training data to the visualizer
+#    visualizer.score(X_test, y_test)  # Evaluate the model on the test data
+#    g = visualizer.poof()
 
 df=pd.read_csv('./analytics_ready.csv', encoding = 'utf-8') 
 df.drop(df.columns[[0]], axis=1, inplace=True)

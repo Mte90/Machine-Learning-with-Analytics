@@ -12,7 +12,7 @@ def download_content(slug):
     for item in req.json():
         content = item['content']['rendered']
         content = content.replace('&#8217;', "'").replace('&#8211;', "-")
-                                  .replace('&#8221;', '"').replace('&#8230;', '…')
+        content = content.replace('&#8221;', '"').replace('&#8230;', '…')
         content = re.compile(r'<[^>]+>').sub('', content)
         content = content.replace('  ', '').strip()
         return content
