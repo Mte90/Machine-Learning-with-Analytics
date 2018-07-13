@@ -1,5 +1,5 @@
 ,Pagina,Visualizzazioni di pagina,Accessi
-0,"I remember when everything is started&#8230;
+0,"I remember when everything is started…
 In November 2015 at MozFest London I experimented to do an extension with the new technology WebExtension and I said to me: I can do it, is standard html, js and css with a file that contain the information and load for me the file in the pages that I want.
 The mainly issue was that I am a developer with no fantasy, so I never got an idea for months about do it an extension.
 I started to follow the WordPress community in different meetings and started to join discussions localization on WordPress.
@@ -711,7 +711,7 @@ PS: you will receive email notifications when you earn points every month 😀",
 
 Il problema dello sciopero di mezzi ha fatto diverse vittime il venerdì (Fexys mi leggi?), stavo per diventarlo anch'io ma dopo una corsa che mi ha fatto perdere un polmone e sentire dei muscoli nelle gambe che non conoscevo ho preso letteralmente al volo la navetta offerta dal codemotion a Termini.
 Sulla navetta ho fatto conoscenza con altre persone e ho parlato di FirefoxOS avendo partecipato all'evento a Roma a Gennaio (se non hai letto il resoconto) fai sempre in tempo a rimediare).
-Arrivo al Codemotion che Fexys non può venire causa traffico e lo insulto al telefono&#8230;
+Arrivo al Codemotion che Fexys non può venire causa traffico e lo insulto al telefono…
 Mi metto alla ricerca di altri elementi e incontro il mitico (ribattezato poi Blackberry Man) Chris Zeta.
 Lui và al talk dedicato a Blackberry dopo aver rimediato la maglietta proprio dallo stand ufficiale BlackBerry gongolando tutto il giorno.
 Io vado al talk dedicato a PHP non lo stesso linguaggio ed incontro BrokenStorm con iLucas!
@@ -722,7 +722,7 @@ Nella stessa aula seguiamo il talk dedicato al mobile che è stato interessante 
 Mi potete trovare insieme agli altri sulla destra 😛
 Dopo abbiamo incontrato DottorBlaster, b4d tr1p e V2 e ci siamo diretti a mangiare quello che chiamavano panino.
 Dopo mi sono recato alla sala per l'hackaton ma già attapirato per le varie buche che avevo ricevuto e quindi mi sarei ritrovato a farlo da solo.
-Detto questo con Chris Zeta che mi fà compagnia ascoltiamo la traccia che era secondo me molto generica ovvero Migliorare la qualità della vita, dopo un'pò di sconcerto decido di ritirami&#8230;
+Detto questo con Chris Zeta che mi fà compagnia ascoltiamo la traccia che era secondo me molto generica ovvero Migliorare la qualità della vita, dopo un'pò di sconcerto decido di ritirami…
 Incontro dopo anni 0limits91, nel lontano 2008 avevo realizzato con lui un web browser in vb.net e siccome non c'era Dropbox e non sapevamo usare svn ci passavamo il progetto tramite box.com.
 Eccoci qua!
 A questo punto partecipo all'incontro organizzato da Ildn per discutere delle varie comunità opensource e come farle collaborare.
@@ -1240,7 +1240,7 @@ Vi consiglio di scaricare nel frattempo una skin come Oxygen Kde a parte visto i
 Siccome c'è un bug nell'installazione di file xpi locali tramite gui fate partire Firefox con questi parametri per installare l'estensione/tema:
 install-global-extension &#8220;percorsodelfilexpidelvostrotema""
 Fate questo solo se volete questa estensione perchè quella presente nei repo mozilla non funziona con le versioni 9.x mentre quella scaricata dal sito ufficiale si quindi vi serve solo in questo caso, se invece di questa bellissima skin non ve ne frega niente potete installarne una tramite l'interfaccia apposita di Firefox.
-Problema: se avviamo questo Firefox mentre abbiamo aperta la versione GTK ci dirà che c'è un'altra versione aperta quindi bisogna chiuderla&#8230; per ovviare e avere due istanze separate contemporaneamente passate al binario questi parametri:
+Problema: se avviamo questo Firefox mentre abbiamo aperta la versione GTK ci dirà che c'è un'altra versione aperta quindi bisogna chiuderla… per ovviare e avere due istanze separate contemporaneamente passate al binario questi parametri:
 -no-remote -p dev
 In questo modo all'avvio si aprirà una finestra per la scelta dei profili da usare, createne uno nuovo da usare con questa versione selezionatelo e andate avanti.
 P.S.: se volete installare la skin create prima il profilo e poi installatela rinserendo i parametri per la scelta del profilo
@@ -1461,7 +1461,7 @@ export XAUTHORITY=/home/mte90/.Xauthority
 export $"" &gt;&gt; /root/.bashrc
 echo &#8220;(dbus-launch)""
 Aggiriamo dei problemi di kde su aptosid che non permette l'esecuzione di programmi con gui da konsole da root, è spezzato dbus-launch perchè altrimenti stampa il valore non il nome della variabile.
-Dopodichè mettiamo un'pò di alias comodi&#8230;
+Dopodichè mettiamo un'pò di alias comodi…
 Mettiamo un bel testo Root preso da edmund (se fate partire lo script adesso potrebbe dar errori perchè fortunes lo installo più avanti).
 Mettiamo un bell'alias anche all'utente normale che anche lui ha un bel testo colorato e figoso di Debian preso da edmund ma che se messo nello script da errori su errori quindi lo fate a meno se lo volete.
 Partiamo con un dpkg-reconfigure locales perchè a me di avere i locale per lo spagnolo, finlandese, tedeschio e strumpallazzese non mi serve quindi li frullo via.
@@ -1469,7 +1469,7 @@ Diamo un apt-get update e un apt-get upgrade che non fà male alla prima install
 Rimuoviamo quei pacchetti della versione kde-lite di Aptosid come la lingua tedesca di kde che non mi interessa, xsane tanto lo scanner non lo uso e sul portatile non ce l'ho, kaffeine via che uso vlc, il manuale non mi serve e la gui per installare aptosid su usb non mi interessa.
 Installiamo la lingua italiana di kde e beep (sul mio pc non và porco cane).
 Adesso installiamo un'pò di librerie che mi serviranno dopo e anche per usare il pc.
-Spiego solo alcuni pacchetti altrimenti non finiamo più&#8230;
+Spiego solo alcuni pacchetti altrimenti non finiamo più…
 kong-plugins sono plugin per konqueror e per kde, libosmesa mi serve per avere webgl su firefox, ci sono diverse librerie di X e purtroppo installo le $brutte_librerie_che_mi_installano_anche_mono_purtroppo (dopo zapperò via lazarus-ide e monodoc-browser).
 apt-get install vlc audacity soundkonverter kdenlive w64codecs kid3 openshot transmageddon mediainfo qtractor
 Con quel comando installiamo un'pò di robettola per l'audio (si ho intenzione di usare qtractor per fare qualcosa di musica, si installo anche i codec non liberi per i video che mi servono purtroppo)
@@ -2149,7 +2149,7 @@ The script is taken from http://ubuntuforums.org/showthread.php?t=636724 but you
 &nbsp;",8,6
 58,"One of the major drawbacks in Firefox compared to its main rival &#8220;Chrom*"" is the lack of multi-process support which could take full advantage of the CPU's computing power.
 This support has been named Electrolysis, code-name e10s,and has been developed for some years yet only since last year it has been in the Nightly builds .
-The main reason why it isn't yet available for stable Firefox versions are the extensions&#8230;
+The main reason why it isn't yet available for stable Firefox versions are the extensions…
 As you can see on Are we e10s yet? there are several extensions that, because of some Firefox's API not fully compatible or because of the extension itself not integrating the new APIs, do create issues in the browser’s operation. For this very reason,to date the only way to test e10s is to download a Nightly build and then set the parameter `browser.tabs.remote.autostart` to true in about:config. In itself the fact that this option isn't enabled by default, tells that it isn't safe for everyday use.
 P.S. : enabling this in a build other than a nightly could cause Firefox to crash!
 Extensions such as Greasemonkey or Firebug for example do not yet fully support this feature, however the landing in the release branch is to be expected in Firefox 36, while the integration in the Aurora branch is planned for version 34 to allow developers to update their extensions.
@@ -2199,7 +2199,7 @@ http://www.soeren-hentzschel.at/mozilla/firefox/2014/07/12/was-machen-eigentlich
 Thanks Geko for the english translation!",8,8
 59,"Una delle mancanze più evidenti in Firefox rispetto al suo maggiore concorrente, ovvero Chrom*, è la mancanza di un supporto multi processo che sfrutti al meglio le capacità computazionali del processore.
 Questo supporto è chiamato Electrolysis, nome in codice e10s, che è in sviluppo da qualche anno ma che solo dall'anno scorso è presente nella Nigthly.
-Non è ancora disponibile per le versioni stabili perchè il problema principale solo le estensioni&#8230;
+Non è ancora disponibile per le versioni stabili perchè il problema principale solo le estensioni…
 Come si può vedere dal sito Are we e10s yet? ci sono diverse estensioni che a causa di API di Firefox non pienamente compatibili oppure dell'estensioni che non integrano le nuove api che creano problemi nel funzionamento del browser. Per questo motivo oggi l'unico modo per provare e10s è scaricando la nightly e da about:config impostare a true `browser.tabs.remote.autostart`. Il fatto che l'opzione non sia abilitata di default indica come questa feature è troppo insicura per un uso quotidiano.
 PS: Abilitare questo parametro in una versione non nightly potrebbe far crashare Firefox!
 Le estensioni come Grasemonkey e Firebug per esempio non supportano ancora pienamente questa funzionalità ma il rilascio al pubblico è previsto con la release 36, mentre per il ramo Aurora è prevista l'integrazione con la release 34 per poter aiutare gli sviluppatori ad aggiornare le loro estensioni.
@@ -2374,7 +2374,7 @@ Gli stessi giorni abbiamo anche superato i 1500 mi piace su Facebook!
 (function(d, s, id) {var js, fjs = d.getElementsByTagName(s)[0];if (d.getElementById(id)) return;js = d.createElement(s); js.id = id;js.src = 'https://connect.facebook.net/it_IT/sdk.js#xfbml=1&version=v3.0';fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));
 
 
-Abbiamo raggiunto i 1500 mi piace su questa pagina!Grazie a tutti voi per il sostegno che ci date con i vostri&#8230;
+Abbiamo raggiunto i 1500 mi piace su questa pagina!Grazie a tutti voi per il sostegno che ci date con i vostri…
 Pubblicato da Mozilla Italia su&nbsp;Domenica 3 settembre 2017",2,2
 63,"After Sha2017 I was invited to join the End Summer Camp near Venice and I managed to with Eugenio for Mozilla Italia.
 The booth
@@ -2476,7 +2476,7 @@ In the same days we got over 1500 likes on Facebook!
 (function(d, s, id) {var js, fjs = d.getElementsByTagName(s)[0];if (d.getElementById(id)) return;js = d.createElement(s); js.id = id;js.src = 'https://connect.facebook.net/it_IT/sdk.js#xfbml=1&version=v3.0';fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));
 
 
-Abbiamo raggiunto i 1500 mi piace su questa pagina!Grazie a tutti voi per il sostegno che ci date con i vostri&#8230;
+Abbiamo raggiunto i 1500 mi piace su questa pagina!Grazie a tutti voi per il sostegno che ci date con i vostri…
 Pubblicato da Mozilla Italia su&nbsp;Domenica 3 settembre 2017",7,7
 65,"Why
 Friends and open source fan ask me everything about the projects that I follow (most time I follow projects as fan boy) and the developers ask me about interesting libraries. I'm the Super Archive Hero for someone but i think that now is the time to do a weekly report about my reading or discover in the web.
@@ -2662,7 +2662,7 @@ Come succede a me quando devo abbinare i vestiti con i vari colori. Per questo v
 Questo movimento ha lo scopo di eliminare il maschilismo dal materiale informatico. Praticamente tutti i riferimenti maschili o metafore/battute verso le donne non ci devono essere.
 In poche parole la legge dei generi portata sul mondo informatico. Io già sono contrario a questa cosa di definire i genitori come Genitore 1 e Genitore 2 perchè mettono queste figure allo stesso livello mentre non lo sono. La mamma è quella che consola, più comprensiva mentre il padre è quello che in insegna e ti dà il coraggio nella vita. Di solito queste sono alcune delle differenze ma lasciamo perdere il discorso per non fuorviare lo scopo di questo articolo.
 Non ho trovato molto materiale su questo movimento se non nei readme chilometrici.
-Del materiale semplice l'ho trovato su knowyourmeme il che è tutto dire&#8230;
+Del materiale semplice l'ho trovato su knowyourmeme il che è tutto dire…
 Pare che su 4chan si sono messe a discutere di un logo e in modo satirico qualcuno ha risposto creando un linguaggio C Plus Equality o C+=.
 Questo linguaggio è una versione modificata di C++ caricato su Bitbucket e Github. I repo sono stati rimossi da questi siti perchè offensivi.
 Dopodichè non ho capito bene ma le stesse hanno caricato questo linguaggio e ampliato aggiungendo un inherpreter invece di un interpreter.
@@ -3003,7 +3003,7 @@ http://www.lffl.org/2014/05/mozilla-dice-si-ai-drm-in-firefox-il.html
 La notizia italiana più seria che consiglio:
 http://www.marcosbox.org/2014/05/firefox-to-support-web-drm.html
 Concludo con un meme che non li usavo da parecchio per fare un'pò di flame
-Pensa che EME e il DRM siano eticamente sbagliati, ma usa Chrome&#8230;
+Pensa che EME e il DRM siano eticamente sbagliati, ma usa Chrome…
 Grazie Geko per la versione in inglese!",41,39
 78,"Firefox permette di avere più profili nello stesso pc indipendenti tra loro ma questa feature è sconosciuta ai più.
 Approfondiamola insieme!
@@ -3051,7 +3051,7 @@ Potete avere delle istanze di Firefox personalizzate a seconda dell'uso per migl
 Un anno fà la Mozilla Foundation creo una pagina che mostrava quali fossero le estensioni più lente in cui vinceva Firebug.
 Con questa feature ptoete avere le estensioni più da sviluppatore in un altra istanza che non influisce nella vostra esperienza da navigatore.
 I blogger di LifeHacker usano questa feature come si può leggere qui.
-Con la scusa inoltre pulite la volpe perchè se siete come me che provate parecchie estensioni non potete capire cosa diventa il file perf.js e la cartella del profilo&#8230; piene di immondizia!",12,10
+Con la scusa inoltre pulite la volpe perchè se siete come me che provate parecchie estensioni non potete capire cosa diventa il file perf.js e la cartella del profilo… piene di immondizia!",12,10
 79,"Che ci fa un Italiano a Zurigo ad un hackathon per Firefox organizzato dalla community svizzera?
 Niente, mi annoiavo 😀
 Scherzi a parte, sono in ottimi rapporti con la comunità svizzera perché la aiuto nella traduzione del loro sito in Italiano essendo il loro paese multilingua.
@@ -3251,7 +3251,7 @@ For the joy of our Geek and Nerd comes time of the gadgets that I show in the pi
 
 Detail of the 2 gb usb memory stick shaped like a shopping bag with the symbol of the marketplace that contains the simulator and templates for the webapp.
 
-we sit down and throw down ideas for our Web APP. On offer for the first 10 groups or people who had an app for Firefox OS would receive a Firefox Phone Developer Preview! Immediately BrokenSt0rm said and who takes us? My answer was: we see before making a webapp. To know &#8230;.
+we sit down and throw down ideas for our Web APP. On offer for the first 10 groups or people who had an app for Firefox OS would receive a Firefox Phone Developer Preview! Immediately BrokenSt0rm said and who takes us? My answer was: we see before making a webapp. To know ….
 The ideas:
 
 Sharer of contacts (missing feature in FirefoxOS)
@@ -3674,7 +3674,7 @@ Vi avviso che è molto lungo 🙂
 Serata del 25 gasatissimo per la giornata successiva formatto il portatile e rimetto un aptosid pulita con le mie webapp (codice utile), carico nello zaino oltre al mio portatile (17 pollici) macchina fotografica, bandiera linux e peluche di tux.
 Prendo il cotral (vivo a Rieti - Lazio) delle 6:30 e arrivo a Roma verso le 7:45, salgo sul 211 che mi porta al posto. Contando i numeri civici riconosco che quella è la fermata più vicina e mi metto a cercare il posto. Da bravo idiota mi avvio a piedi nel senso opposto accorgendomi che i numeri sono sbagliati e mi rigiro non trovando il numero. Ovviamente l'entrata era accanto alla fermata e non c'avevo fatto caso -.-&#8216;
 Arrivo al posto alle 8 con mezz'ora di anticipo e sono il primo ad arrivare (come mi hanno fatto notare su twitter chi pretendi che giri a quell'ora di sabato mattina?). Ad un certo punto qualcuno porta fuori lo stendardo/cartellone/comesichiama della giornata e scatto l'unica foto della giornata con il cellulare.
-Aspetto che arrivi gente, come arrivano gli addetti chiedo (non ho potuto prenotare il biglietto perche mi sono deciso troppo tardi) se posso entrare lo stesso e mi rispondono che devono vedere se avanzano i posti&#8230;
+Aspetto che arrivi gente, come arrivano gli addetti chiedo (non ho potuto prenotare il biglietto perche mi sono deciso troppo tardi) se posso entrare lo stesso e mi rispondono che devono vedere se avanzano i posti…
 Passo così un ora a rosicare della giornata persa quando tramite twitter riesco a trovare altri due ragazzi mai visti di persona e con cui non ho mai parlato e aspetto insieme a loro. Si tratta di Gimmi94 e BrokenSt0rm che ho conosciuto parlando con altri su twitter per sapere chi veniva a questa giornata. Dovevano venire anche altri deliranti ma alla fine non sono venuti (li mortacci vostri non sapete cosa vi siete perso).
 Si unisce a noi anche il giovane MattyPelly che sarà lo sviluppatore più giovane della giornata (14 anni). Per chi lo volesse sapere eravamo il gruppo più giovane con un età media matematica di 18 anni (io ero il più vecchio con 22).
 Chiacchieriamo mentre aspetto che scada il tempo della registrazione (ore 9:30) per vedere se si può entrare e alla fine sono avanzati parecchi posti quindi no problem e via con il gasaggio.
@@ -3698,7 +3698,7 @@ Ho preso alcune cose in più per PicchioPC, Fexys e Chris_Zeta che non sono potu
 Dettaglio della pennetta usb da 2 gb a forma di sacchetto della spesa con il simbolo del marketplace contenente il simulatore e dei template per le webapp.
 
 (nello sfondo si può vedere il mio vecchio astuccio con condensatori e dei fumetti della Bonelli)
-Dopo il ghghgh dovuto ai gadget ci sediamo e buttiamo giù le idee per la nostra WebAPP. In palio per i primi 10 gruppi o persone che presentavano un app per Firefox OS avrebbero ricevuto un Firefox Phone Developer Preview! Subito BrokenStorm ha detto e chi se lo prende di noi? La mia risposta è stata: vediamo intanto di fare la webapp. A saperlo&#8230;.
+Dopo il ghghgh dovuto ai gadget ci sediamo e buttiamo giù le idee per la nostra WebAPP. In palio per i primi 10 gruppi o persone che presentavano un app per Firefox OS avrebbero ricevuto un Firefox Phone Developer Preview! Subito BrokenStorm ha detto e chi se lo prende di noi? La mia risposta è stata: vediamo intanto di fare la webapp. A saperlo….
 Le idee messe in campo erano:
 
 Condivisore di contatti (feature mancante in Firefox OS)
@@ -3790,7 +3790,7 @@ Per rimanere aggiornato sullo sviluppo attualmente c'è la pagina su fb http://w
 Il forum verrà creato al rilascio della 1.0 Alpha che avverrà presto (speriamo :-P).
 Flatz-Cms è compatibile con New-Cms?
 Attualmente si ed è mia intenzione farlo per mantenere funzionati plugin e skin di New-Cms.
-Per il futuro non si sà&#8230;
+Per il futuro non si sà…
 Ci sarà uno script per installare/aggiornare?
 Ovvio! Flatz sarà serio pure da questo punto di vista!
 Al momento non ho fatto niente ma è nel todo, questo script permetterà l'aggiornamento sicuro di New-Cms a Flatz-Cms e l'installazione facilitata.
@@ -4252,7 +4252,7 @@ They call me »Bæla Poppins« 😏☂️🦊 pic.twitter.com/3ihpDG8oa2
 &mdash; Bæla (@baelathefox) February 4, 2018
 
 Altro
-Mi sono permesso finalmente una visita al museo delle statuine dei fumetti e quindi&#8230;
+Mi sono permesso finalmente una visita al museo delle statuine dei fumetti e quindi…
 
 
 
@@ -4450,7 +4450,7 @@ They call me »Bæla Poppins« 😏☂️🦊 pic.twitter.com/3ihpDG8oa2
 &mdash; Bæla (@baelathefox) February 4, 2018
 
 Other
-I finally allowed myself a visit to the museum of cartoon action figure and then &#8230;
+I finally allowed myself a visit to the museum of cartoon action figure and then …
 
 
 
@@ -4589,7 +4589,7 @@ To find tickets for wordpress look on https://make.wordpress.org/core/reports/.
 
 See you on GitHub, maybe also on my projects or others!",51,39
 113,"I am not an expert of GDPR but probably like you I was looking for a way to add GDPR support on my freemium plugin, WooCommerce Fiscalità Italiana.
-The problem actually that aren't available on the net articles or tutorial about how to do it&#8230;
+The problem actually that aren't available on the net articles or tutorial about how to do it…
 There is the official announcement of WooCommerce about 3.4 that add this support but now how to use for developers.
 So the step for me was to search about other plugin that support WooCommerce 3.4 and by Automattic to be fast and find a plugin where find hooks and also code examples that works.
 After a while I saw that there are 2 sets of filters useful for a plugin developer that add on users and order specific data that are sensible.
@@ -4694,7 +4694,7 @@ My advice is to separately download a skin such as Oxygen Kde, considering the i
 Becasue of a bug affecting the installation of local xpi files from the gui, you'll have to start Firefox with the command line parameter
 install-global-extension &#8220;path to xpi file for your theme""
 This is only necessary if you are actually wishing to install this extension,given that the version found in the Mozilla repo doesn't work with the release 9.x, whilst the version downloaded from the official site does,therefore only in this particular case you need to start Firefox in this way-if, on the contrary, you don't care about this really nice skin,you can get another one via the built-in interface from Firefox.
-Here's a problem:if we are going to start this Firefox version whilst the GTK version is already in use, it will say that there is another instance already running and we will have to close it&#8230; to solve the issue and be able to have two separate instances running at the same time,use the following parameters to launch (from terminal) the qt binary:
+Here's a problem:if we are going to start this Firefox version whilst the GTK version is already in use, it will say that there is another instance already running and we will have to close it… to solve the issue and be able to have two separate instances running at the same time,use the following parameters to launch (from terminal) the qt binary:
 -no-remote -p dev
 By doing that, when launching Firefox a dialog window will open to choose the profile to use:create a new profile to be used with this specific version,select it and press continue.
 P.S. if you wish to install the skin, first create the new profile and then install the extension
@@ -4732,7 +4732,7 @@ The bored rather ugly and be committed lets be more satisfied with their results
 
 &#8220;With open source you not get bored, you can always find something to do"" it is one of my key phrases when I try new volunteers and along with all this talk you can understand how important it is.
 In a world where it's hard to do their part, the open source supports this with a sheet of paper and an internet connection.
-Why&#8230; Mamma Mia!
+Why… Mamma Mia!
 
 
 Look at all these fantastic Mozillian volunteers! #MozAloha pic.twitter.com/6mLjmt9zlG
@@ -4822,7 +4822,7 @@ Questo sito invece sarà convertito a manina in Lepton-Cms che è un fork di Web
 Perchè passi ad un cms con database?
 Oggigiorno non ha senso continuare ad usare cms flat, almeno secondo me. Non sono performanti e i dati sono divisi in molteplici file corruttibili.
 I database sono nati per semplificare anzi proprio per la gestione dati e fanno il loro lavoro egregiamente.
-Ma tutti questi anni&#8230;
+Ma tutti questi anni…
 Mte90.net è dal 2008 che usa New-Cms, dal 2010 che usa Flatz-Cms. Il vecchio sito su altervista nel 2007 usava Xcms.
 Sono anni di roba da passare al nuovo cms che mi spaventano perchè non ho intenzione di fare un convertitore perchè ci vorrebbe più tempo a farlo che con il copia e incolla.
 E tutto il materiale???
@@ -5353,7 +5353,7 @@ virtuoso-minimal strigi-client
 Per usare strigi bisogna avere un database quindi installate mysql e andate tranquilli, anche se ho letto su planet kde che è possibile usare postregresql.
 Passiamo ai plugin!!!!!!
 kdegraphics-strigi-plugins okular-extra-backends kipi-plugins imagemagick
-Lo sò è poca roba ma nei repo ho trovato questi&#8230; Il primo aggiunge il supporto ad altri formati per strigi, l'altro aggiunge il supporto ad altri formati ad okular, gli ultimi servono su digikam e gwenview per poter aggiungere effetti o fare ritocchi al volo.
+Lo sò è poca roba ma nei repo ho trovato questi… Il primo aggiunge il supporto ad altri formati per strigi, l'altro aggiunge il supporto ad altri formati ad okular, gli ultimi servono su digikam e gwenview per poter aggiungere effetti o fare ritocchi al volo.
 Stili kde per Gtk
 gtk2-engines-oxygen gtk2-engines-qtcurve
 Se volete usare oxygen o qtcurve come stili nelle applicazioni Gtk ecco i vostri pacchetti ( si lo sò ho scritto gtk sarò calciorotato per questo)
@@ -5368,7 +5368,7 @@ P.S. Ovviamente se ne conoscete altri io li aggiungo subito :-PP",1,1
 145,"Probably you are wondering what is the Plasma Integration Browser.
 
 As you can see on the video is a cool extension that can deprecate the KDE Connect for browser very easily.
-Sadly the module to install for the extension is not available on Debian&#8230;
+Sadly the module to install for the extension is not available on Debian…
 If you see on Addons Store for Firefox, they say that the package is available on your distro, but this is not true.
 There is a package request on Debian for that without any updates: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=890778
 So what is the solution for us?
@@ -5746,7 +5746,7 @@ Oltre un'anno fà dopo aver scritto [WordPress] Come fare un filtro Ajax dei pos
 Oramai con Andrea ed Eugenio siamo un team, anche in ambito lavorativo, e tutto questo non sarebbe successo se non avessi iniziato a scrivere di programmazione in modo più completo, non il solito ecco qua lo snippet prendete e divertitevi tutti.
 Andrea mi ha insegnato a scrivere gli articoli in modo più chiaro anche se ancora oggi ha sempre paura a sistemare i prodotti del mio cervello a 32x.
 Per gli errori di grammatica invece bèh che vi posso dire, il controllo ortografico non mi basta ma sto cercando di migliorare anche in questo aspetto.
-Concludendo da oggi i feed di questo sito conterranno anche i guest post che vi permetteranno di andare direttamente al sito specifico, per chi vuole vedere lo storico dei guest post c'è sempre il fidato archivio che contiene tutto il materiale ancora disponibile (quanti siti sono scomparsi&#8230;) che ho scritto su siti non di mia proprietà.",3,3
+Concludendo da oggi i feed di questo sito conterranno anche i guest post che vi permetteranno di andare direttamente al sito specifico, per chi vuole vedere lo storico dei guest post c'è sempre il fidato archivio che contiene tutto il materiale ancora disponibile (quanti siti sono scomparsi…) che ho scritto su siti non di mia proprietà.",3,3
 152,"Iniziare con un video mi è sembrato il modo migliore visto il successo in termini di numeri (200 partecipanti da oltre 30 paesi).
 Ho potuto partecipare due giorni su tre quindi vi lascio con il mio resoconto 😀
 Location
@@ -5965,9 +5965,9 @@ The presence of the Mozilla community in this event is there but after two editi
 All Hands is an event designed for Mozilla employees and selected volunteers to upgrade between them and work together by planning the next few months.
 With this premise we can say that I would like a Mozilla Conference to talk to volunteers about news and not just stuff of work or promotion outside but also think about volunteers themselves.
 Of course, a difference between LibreOffice and Mozilla is evident since the first is a Document Foundation and the second deals with a lot of things and so dealing with everything is more difficult.",13,13
-154,"Ritorno con un post di trucchi&#8230;
+154,"Ritorno con un post di trucchi…
 Non è un trucco in realtà XD
-Bèh allora avete sicuramente Libreoffice altrimenti non stareste leggendo quindi vediamo il problema&#8230;
+Bèh allora avete sicuramente Libreoffice altrimenti non stareste leggendo quindi vediamo il problema…
 Siete dei debianisti e certe volte libreoffice/openoffice non ne vuole sapere di mantenere la configurazione della stampante?
 La soluzione è semplice usare il comando spadmin che apre la finestra di configurazione delle stampanti generale che mantiene la configurazione!
 Sulle altre distro lo trovate subito perchè sta in /usr/bin!
@@ -6210,7 +6210,7 @@ Il problema di ogni videogioco è ci gira sul mio computer?
 Se avete un computer recente non avete problemi anche se diminuite la caratteristiche grafiche il gioco puù funzionare tranquillamente.. questo su Windows ma su Linux?
 Se avete mai comprato un Humble Bundle può esservi capitato che qualche gioco richiedi i driver closed source di Nvidia o Ati per poter funzionare quindi il rosicaggio l'avete già sentito.
 Almeno io l'ho sentito parecchio :-/
-Se sei un linuxari conosci la questione driver proprietari o open&#8230;.
+Se sei un linuxari conosci la questione driver proprietari o open….
 I proprietari hanno sempre dei problemi: non sono mai ottimizzati, alcuni programmi non funzionano (Virtualbox nel mio caso), sono compatibili con versioni vecchie di X.Org, la loro configurazione è complicata etc.
 Gli Open Source invece non supportano le ultime caratteristiche, non sono ottimizzate per il consumo batteria e non tutti i giochi funzionano.
 Compromessi
@@ -6263,7 +6263,7 @@ Come dice la guida vi consiglio di tenere la lingua italiana e inglese.
 Inoltre prima di eseguire questo programma, che dovete installare dai repo, date un bel dpkg-reconfigure locale così impostate da subito le lingue predefinite e all'avvio di localepurge ve le troverete già spuntate.
 Alla prossima!",1,1
 165,"Io ho iniziato a programmare siti internet nel 2005 ed avevo 15 anni. Da allora le cose sono molto cambiate fortunatamente!
-Le tabelle oramai si usano solo per fare&#8230;. il lavoro di tabelle e non più quello di layout.
+Le tabelle oramai si usano solo per fare…. il lavoro di tabelle e non più quello di layout.
 I frame non sono più utilizzati per non dover avere contenuto uguale in tutte le pagine semplice da aggiornare grazie alle soluzioni lato server.
 Internet Explorer non domina più il mercato con i suoi bug.
 I popup non sono più la peste nera dei navigatori della rete e molto altro è successo nel frattempo.
@@ -6528,7 +6528,7 @@ We speak of the event beginning with the program:
 18:00 to 18:30 &#8212; Fabio Collini (GDG Florence)
 &#8220;Clean Android Code""
 18:30 to 18:40 Closing &#8212;
-18:30 - &#8230; &#8212; Bar
+18:30 - … &#8212; Bar
 I have known several people interested in Firefox OS, the thing that struck me that there are many people who did not know the launch in Italy. We need to spread the news more it seems!
 
 The first to do the talk were those of the teamUDOO(Italian project) with their board/minipc that is a hybrid with Raspberry steroids and Arduino Due. Since I have is that the Raspberry my Arduino is considerable interest towards this solution but the presentation was devoted mostly to solutions combined Android / Arduino. Since I do not know to program for Android I felt excluded, however, the board supports others know how Debian. Ideally Debian (I like Debian problems?) That made ​​by bees rest in a way that can also be used in other systems (such as Firefox OS) or webapp to manage everything. With such a solution I will no longer need to use the Arduino connected to the pc because it is all in the board (you actually think that's the idea behind this board).
@@ -7667,7 +7667,7 @@ From the last October I am also doing a monthly report about what I do for open 
 
 
 
- My #opensource plushes are very sad with the #github acquisition by #microsoft&#8230;
+ My #opensource plushes are very sad with the #github acquisition by #microsoft…
 A post shared byDaniele Mte90 Scasciafratte (@mte90) on Jun 5, 2018 at 6:26am PDT
 
 
@@ -9345,7 +9345,7 @@ Also see live other European will allow us to organize the online meetings in or
 The Participation Team has done an excellent job and I hope that this event will become annual.
 
 
-#mozeurope @brianking and @deimidis wrapping up the weekend&#8230; Partners in crime pic.twitter.com/mVDRekjGHS
+#mozeurope @brianking and @deimidis wrapping up the weekend… Partners in crime pic.twitter.com/mVDRekjGHS
 &mdash; Flore (@flore_dvk) September 11, 2016
 
 He could not miss the group photo!
@@ -9531,7 +9531,7 @@ Inoltre vedere dal vivo gli altri europei ci permetterà di organizzare degli in
 Il Participation Team ha fatto un ottimo lavoro e spero che questo appuntamento diventi annuale.
 
 
-#mozeurope @brianking and @deimidis wrapping up the weekend&#8230; Partners in crime pic.twitter.com/mVDRekjGHS
+#mozeurope @brianking and @deimidis wrapping up the weekend… Partners in crime pic.twitter.com/mVDRekjGHS
 &mdash; Flore (@flore_dvk) September 11, 2016
 
 Non poteva mancare la foto di gruppo!
@@ -11346,7 +11346,7 @@ Attivati e nessuno potrà dire che non hai fatto niente. Perchè a lamentarsi so
 
 Incomincia a farlo con i programmi e vedrai che questo modo di agire ti aiuterà anche nella vita. Il problem solving è utile non solo agli sviluppatori ma anche alle persone nella vita quotidiana.
 PS: per esempio potresti segnalarmi che ci sono troppi meme in questo post ed io potrei dirti che non è un bug ma è una feature. Io ho notato la cosa, la prossima volta potrei mettercene di meno ma non sarebbe divertente 😀
-UPDATE: Ho scritto questo articolo due settimane fà e ci sono state altre novità dal punto di vista dei ticket&#8230;
+UPDATE: Ho scritto questo articolo due settimane fà e ci sono state altre novità dal punto di vista dei ticket…
 Cominciamo da Ceceppa Multilingua un plugin italiano per WordPress che ho fatto conoscere in community WPItaly+ e di cui abbiamo fatto un hangout con l'autore come ospite. Ho segnalato diversi problemi e bug, correzioni alla lingua in italiano con una pull request e proposte. Qual'è stata la risposta? Nel giro di una settimana tutto sistemato e le feature sono state integrate in un lampo!
 Parliamo sempre di WordPress e passiamo a WPDK (WordPress Developer Kit) dove ho segnalato diversi bug e mi hanno pure citato nel changelog.
 Cambiamo argomento ed arriviamo ad un mese fà parlando di Google2Ubuntu uno script per Linux per usare le api di google per il riconoscimento vocale e dare comandi al proprio pc. Tradotto in italiano ed ho aiutato lo sviluppatore a risolvere un bug che su Debian o altre combinazioni software non ne permetteva il funzionamento. Tipo 50 commenti in 3 ticket.
@@ -11419,7 +11419,7 @@ Integra una galleria fotografica e un editor con syntax highligher che per i pro
 8) Condivisione
 I nostri dati possono essere condivisi tramite link o altri account sullo stesso sistema.
 9) Libertè, egalitè, so fatti mè (orrenda)
-Per poterlo usare ci sono due soluzioni, usiamo un provider o ce lo installiamo sul nostro pc. Nel secondo caso la sicurezza dei nostri dati è assicurata al 100% però dobbiamo ricordarci che la banda di casa non è mai il massimo&#8230;
+Per poterlo usare ci sono due soluzioni, usiamo un provider o ce lo installiamo sul nostro pc. Nel secondo caso la sicurezza dei nostri dati è assicurata al 100% però dobbiamo ricordarci che la banda di casa non è mai il massimo…
 10) Mobile
 Come detto sopra basta usare un app che supporta i vari protocolli ed è possibile rimpiazzare iCloud e Google Documents/Driver/CippaLippa etc.
 Esiste un app in sviluppo per Android e anche un client basilare per linux.
@@ -11558,7 +11558,7 @@ L'annoiarsi invece è brutto ed essere impegnati permette di essere anche più s
 
 &#8220;Con l'open source non ci si annoia mai, qualcosa da fare si trova sempre"" è una delle mie frasi ricorrenti quando cerco nuovi volontari ed insieme a tutto questo discorso si riesce a capire quanto è importante.
 In un mondo dove fare la propria parte è difficile, l'open source permette di farlo con un foglio di carta ed una connessione ad internet.
-Perché&#8230; Mamma Mia!
+Perché… Mamma Mia!
 
 
 Look at all these fantastic Mozillian volunteers! #MozAloha pic.twitter.com/6mLjmt9zlG
@@ -12178,7 +12178,7 @@ Make libbluedevil async: Supporto asincrono alle periferiche bluetooth!
 Perchè solo due? Perchè i vari progetti sono il passaggio alle QT5 per diverse cose e altre cose non importanti come quelle che ho citato.",2,1
 250,"29/03/10
 Un mese pieno di rilasci!
-C'è chi si chiederà perchè tutti questi rilasci così velocemente&#8230;
+C'è chi si chiederà perchè tutti questi rilasci così velocemente…
 Ho intenzione di finire Proj Management presto e lo rilascio frequentemente così chiunque può vedere le modifiche subito e suggerirmene di nuove prima del rilascio definitivo che sarà prestissimo.
 Le modifiche di questa versione Pre-Release2 sono:
 Fix W3c Html per i link
@@ -12194,7 +12194,7 @@ Ho fretta di fare questi rilasci così posso mettermi sotto con il famoso NCefD 
 Questa volontà di sbrigarsi è anche dovuta alla mia ricerca di funzioni da aggiungere al cms.
 A presto!
 23/03/10
-Vi starete chiedendo quando uscirà la versione definitiva di Proj Management&#8230;
+Vi starete chiedendo quando uscirà la versione definitiva di Proj Management…
 Dopo 3 RC ecco la Pre-Release che contiene:
 
 Cambiato sistema tag br
@@ -12207,7 +12207,7 @@ Ringrazio Vania per l'aiuto per questa versione.
 Qualche giorno fà ho rilasciato About Page Stable che contiene moltissimmi bugfix ed è altamente consigliabile farne l'upgrade.
 Sto valutando di aggiornare Box Citazioni Random per renderlo più web 2.0 e con più funzionalità.
 Questo è tutto per quello che riguarda New-Cms anche se ho alcune ideuzze per Proj Management ma se ne parlerà non nella 1.0 definitiva ma per le prossime.
-Nel campo dekstop sto valutando Python&#8230;
+Nel campo dekstop sto valutando Python…
 Che dire a presto!
 10/03/10
 Rilasciata dopo 4 giorni la versione rc3 che comporta:
@@ -12217,7 +12217,7 @@ Rilasciata dopo 4 giorni la versione rc3 che comporta:
 Rimando al link della vecchia news con tutte le altre feature di questa versione:
 Proj Management 1.1 RC2
 Ricordo di segnalare bug o feature attraverso questa pagina andando su ticket.
-P.S.: La grafica del sito è in ammodernamento quindi qualcosa potrebbe anche vedersi in modo strano&#8230;significa che ci sto lavorando sopra per sistemarlo.
+P.S.: La grafica del sito è in ammodernamento quindi qualcosa potrebbe anche vedersi in modo strano…significa che ci sto lavorando sopra per sistemarlo.
 6/03/10
 Rilasciata dopo pochi giorni la versione rc2 che comporta:
 1) Fixato bug per chi usa il cms in una sottocartella.
@@ -12382,7 +12382,7 @@ Segnala via email? Chi lo usa ancora? Ormai usiamo tutti il classico pulsante co
 Per migliorare il tuo sito inserisci i micro data e gli open graph basta poco ed i social potranno avere informazioni specifiche riguardo il link. Inserisci i pulsanti di condivisione (che di solito ti dicono pure le statistiche di diffusione di un'articolo).
 Non starò certo a dire che devi avere la condivisione automatica sulla pagina o account sui vari social. La prendo per sottinteso.
 Se non lavori per i social come fai a parlare delle ultime novità di Facebook o Twitter se non li usi in modo completo?
-Per non parlare che oramai i social sono integrati nei risultati dei motori di ricerca&#8230;
+Per non parlare che oramai i social sono integrati nei risultati dei motori di ricerca…
 
 Ok bravo però è ora che rifai il sito. Si perchè la grafica è ferma da anni e tante cose non vengono più usate. Tipo le tag cloud. E altra roba.
 Se parli di tecnologia come non fai ad essere al passo dei tempi con un sito che non sia moderno? Non dico all'ultimo grido o che ogni anno gli cambi la grafica. Aggiornala, cavolo lo fanno anche i social network che ad ogni cambiamento ci sono orde di richieste a tornare a prima e poi dopo l'isteria iniziale la gente si rende conto che invece è effettivamente meglio la nuova versione. Come mai? Semplice perchè aggiunge nuove funzioni o ne promuove di vecchie rendendo migliore l'esperienza utente.
@@ -13078,7 +13078,7 @@ Italian embassy just hacked #sha2017 sign, still hacking anyways pic.twitter.com
 Vi lascio il video che spiega come è andata:
 https://www.youtube.com/watch?v=1Vidwg2Ts8M&#038;feature=youtu.be&#038;t=8m1s
 Mozilla
-Con il programma TechSpeaker sono stato sponsorizzato per questo evento. Dentro l'embassy il mio nickname non era Mte90 ma Mozilla, può far piacere ma stona parecchio&#8230; solo perché avevo tutto il tempo una felpa con scritto Firefox!
+Con il programma TechSpeaker sono stato sponsorizzato per questo evento. Dentro l'embassy il mio nickname non era Mte90 ma Mozilla, può far piacere ma stona parecchio… solo perché avevo tutto il tempo una felpa con scritto Firefox!
 
 
 
@@ -13444,7 +13444,7 @@ Italian embassy just hacked #sha2017 sign, still hacking anyways pic.twitter.com
 I leave the video explaining how it went:
 https://www.youtube.com/watch?v=1Vidwg2Ts8M&#038;feature=youtu.be&#038;t=8m1s
 Mozilla
-With the TechSpeaker program I was sponsored for this event. Inside the embassy my nickname was not Mte90 but Mozilla, it may can be pleasant, but it stinks a lot &#8230; just because I had all the time a hoodie with a  Firefox sign!
+With the TechSpeaker program I was sponsored for this event. Inside the embassy my nickname was not Mte90 but Mozilla, it may can be pleasant, but it stinks a lot … just because I had all the time a hoodie with a  Firefox sign!
 
 
 
@@ -13620,7 +13620,7 @@ Semplice, documentare questo elenco e strutturarlo con delle regole, sfruttando 
 Rendendo il tutto anonimo (per poi valutare se passare ad altro).
 Inutile pensare a denunce, siti o altre cose se non si ha una base su cui partire. In questo modo si può studiare meglio i passaggi successivi, trovare l'aiuto di qualcun altro e capire le potenzialità.
 &nbsp;
-Dopo qualche giorno&#8230;
+Dopo qualche giorno…
 Il documento conteneva soltanto il sito che ho menzionato poco fa, quindi scarno è dire poco.
 Dopo due settimane (tutto nasce il 8/01/2018) ecco i dati presenti:
 
@@ -13795,8 +13795,8 @@ Nonna: Non si chiamava solamente Linux?
 Nipote: Bèh GNU è quella parte che permette al computer di parlare con il Kernel Linux nella stessa lingua.
 Nonna: Kernel? e che cos'è? un medicinale col nome strano?
 Nipote: No il kernel è il termine tecnico per definire la centralina software della macchina.
-Nonna: Meno paroloni che è meglio&#8230;
-Nipote: Nella macchina il kernel sarebbero i cavi e i fusibili che vanno dal pannello alla centralina detta in modo semplice. La parte software permette al resto dell'interfaccia di comunicare con la parte hardware che&#8230;
+Nonna: Meno paroloni che è meglio…
+Nipote: Nella macchina il kernel sarebbero i cavi e i fusibili che vanno dal pannello alla centralina detta in modo semplice. La parte software permette al resto dell'interfaccia di comunicare con la parte hardware che…
 Nonna: Mangia un cioccolatino e non dire parole strane
 Nipote: Hardware (gnam gnam) è il termine tecnico per gli elementi fisici della macchina, li potremmo chiamare pezzi.
 Una macchina solamente con una centralina e un pannello non serve a niente quindi servono una serie di altri &#8216;pezzi' che permettono all'utente (cioè te) di usarlo. Siccome tu non tiri i cavi ma premi un pulsante colorato o luminoso con una scritta sul pannello c'è una cosa simile su Linux.
@@ -13805,7 +13805,7 @@ Si chiama Ambiente grafico (gnam gnam) tramite questa interfaccia tu puoi gestir
 Nonna: Adesso spiegami cos'è internet perchè ne parlano tanto ma non dicono cosa è. Se io ho un computer che ci faccio con internet?
 Nipote: La macchina la usi per andare su strada il computer lo usi per andare su internet. Internet è una finestra su qualunque cosa cerchi ma bisogna saper cercare bene perchè ci sono finestre e finestre, da quella sul giardino a quella sul bidone dell'immondizia.
 Nonna: A proposito di immondizia dopo se la butti mi fai un piacere.
-Nipote: Sicuramente, dicevo che su internet puoi vedere foto di posti, video, sentire la musica, rimanere aggiornato, scrivere email&#8230;
+Nipote: Sicuramente, dicevo che su internet puoi vedere foto di posti, video, sentire la musica, rimanere aggiornato, scrivere email…
 
 Nonna: Cosa sono queste email?
 Nipote: bèh le email sono le lettere digitali e sono molto comode, perchè puoi mandarle insieme ad altri file o dati se preferiamo quindi le solite foto musica video testo ecc. Sono molto semplici da usare e i termini tecnici sono gli stessi della classica posta.
@@ -14151,7 +14151,7 @@ Ringtones: I had developed a ringtone picker, I noticed that currently the third
 Background service: the ability to create services always listening. Mentioned in point 1, but as the argument is very important today to do this you need to use the API of the alarm that is not a valid solution engineering standpoint. The ability to launch a service that can intercept and what happens in the phone for some types of applications is important.
 Few types of apps: from version 1.4 you can create launcher and keyboards but there is no documentation or examples to achieve them. I participated in the development of the famous boilerplate but not enough examples for the use of the API, serve the projects start to ensure that you have more material available to us and earn in time and level of learning. MDN is not enough, need complete application starting to customize.
 There is no the simulator for the tablet version. Certainly, currently there are very few around, but make it available would help the testing phase of the volunteers who own these devices. Would also serve a simulator for Matchstick (you can always work with a connected television) and other devices that will come out.
-The simulator does not support the camera and the computer does not allow you to enter data for geolocation, making it difficult application testing. There are ticket reporting open in this regard but are slow, however I think they should take precedence: how can we convince the developers of the goodness of the operating system if he is offered a simulator that face as it should work as a&#8230; simulator?
+The simulator does not support the camera and the computer does not allow you to enter data for geolocation, making it difficult application testing. There are ticket reporting open in this regard but are slow, however I think they should take precedence: how can we convince the developers of the goodness of the operating system if he is offered a simulator that face as it should work as a… simulator?
 The lack of support for CardDAV creates problems for people like me who relies on external services for synchronization of your contacts. I know CalDav in the new versions is supported but this is a problem for those who want to make the switch.
 Google, yes the damned not having the API writeable for services like Google Plus or Drive makes it impossible to use its services to Firefox OS, and web versions are often obsolete and outdated making their use very uncomfortable and unpleasant. So would a project like Web Compat but thought to promote the opening of the API of the various online services. In this way it would benefit not only Firefox OS but other colleagues as Ubuntu Touch or Sailfish OS or Windows Phone.
 The marketplace prevents developers to specialize the app for a specific version of the operating system. This is one of many problems highlighted by me on the mailing list dedicated to the marketplace, following the full report: https://mail.mozilla.org/pipermail/marketplace-contributors/2014-December/000039.html
@@ -14335,7 +14335,7 @@ Finchè non scopre questo non può aprire gli occhi per tutte le cose che potreb
 Secondo me è bene contribuire sia all'utenza che al kernel. Ci sono molte aziende che lavorano al kernel quindi se Canonical dedicasse più attenzione alla realizzazione di software anche per gli altri DE non sono gtk mi ritterrei più che soddisfatto.
 Ubuntu è il grande bacino di sviluppo software peccato che sia solamente per GTK o per il suo sistema operativo.
 Gli utenti delle altre distribuzioni ufficiali devono spesso farsi un port per il loro ambiente grafico e questo non mi piace per niente.
-Per usare un termine finanziario &#8216;Sfruttamento di posizione predominante'. Apolitticamente mi ricorda la Microsoft con il suo Abbraccia, Estendi e Estingui&#8230; (Unity e Gnome bastano direi no?)",1,1
+Per usare un termine finanziario &#8216;Sfruttamento di posizione predominante'. Apolitticamente mi ricorda la Microsoft con il suo Abbraccia, Estendi e Estingui… (Unity e Gnome bastano direi no?)",1,1
 304,"The first rule of optimization is: When something require many steps and can be automatized, do a script.
 At least in my mind this my first rule and I do a script when I do the same things to many times.
 For that reason I maintain a folder with scripts and different suite like this one.
@@ -14952,7 +14952,7 @@ La settimana scorsa ho potuto partecipare al primo incontro a Terni del nuovo me
 
 
 
- #wpterni comincia oggi a&#8230; #Terni! #wordpress
+ #wpterni comincia oggi a… #Terni! #wordpress
 A post shared byDaniele Mte90 Scasciafratte (@mte90) on May 10, 2018 at 9:51am PDT
 
 
