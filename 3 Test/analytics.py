@@ -44,7 +44,7 @@ print("CSV caricato")
 
 rscaler = RobustScaler()
 tokenizer = Tokenizer()
-print(df['Pagina'])
+
 tokenizer.fit_on_texts(df['Pagina'])
 X = tokenizer.texts_to_matrix(df['Pagina'], mode='count')
 
